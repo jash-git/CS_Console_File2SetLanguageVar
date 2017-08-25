@@ -1,0 +1,1058 @@
+﻿m_StrTabPageTagWel,Welcome
+m_StrTabPageTag00,Device management
+m_StrTabPageTag0000,Controller management
+m_StrTabPageTag000001,Configure controller
+m_StrTabPageTag0001,Region of door area/elevator
+m_StrTabPageTag000100,Configure door area
+m_StrTabPageTag000101,Configure elevator
+m_StrTabPageTag0002,Region Group List
+m_StrTabPageTag000200,Edit Region Group
+m_StrTabPageTag0003,Door area A.P.B. list
+m_StrTabPageTag000301,Configure A.P.B.
+m_StrWelcomePage00,Welcome
+m_StrWelcomePage01,Please select operation menu on the left side bar or click any of the following items to start device management.
+m_StrMain00Page00,Device management
+m_StrMain00Page01,Please select operation menu on the left side bar or click any of the following items to start device management.
+m_StrOutlookSubMenu00,Controller
+m_StrOutlookSubMenu01,Region of door area/elevator
+m_StrOutlookSubMenu02,Region group
+m_StrOutlookSubMenu03,Door area A.P.B management
+m_StrJLMBSubTxt00,Manage your controllers
+m_StrJLMBSubTxt01,Configure Region of door area/elevator
+m_StrJLMBSubTxt02,Organize Region of door area/elevator group
+m_StrJLMBSubTxt03,Configure door area Anti Pass-Back
+m_StrJLMBMemoTxt00,
+m_StrJLMBMemoTxt01,
+m_StrJLMBMemoTxt02,
+m_StrJLMBMemoTxt03,
+m_StrlabSub0000,Controller management
+m_StrbutSub0000_01,Edit controller
+m_StrbutSub0000_02,Add controller
+m_StrbutSub0000_03,Import controller
+m_StrbutSub0000_04,Export controller
+m_StrbutSub0000_05,Print report
+m_StrbutSub0000_06,Exit
+m_StrbutSub0000_07,Select all
+m_StrbutSub0000_08,Unselect all
+m_StrbutSub0000_09,Execute
+m_StrbutSub0000_10,Search
+m_StrlabSub0000_01,Filter:
+m_StrckbSub0000_01,Enable
+m_StrckbSub0000_02,Disable
+m_StrckbSub0000_03,Door Controller
+m_StrckbSub0000_04,Elevator controller
+m_StrckbSub0000_05,A.P.B. Enabled
+m_StrckbSub0000_06,A/B door Enabled
+m_StrtxtSub0000_01,Input keyword
+m_StrlabSub000001,Configure controller
+m_StrgpbSub000001_01,Basic
+m_StrgpbSub000001_02,Status
+m_StrgpbSub000001_03,A.P.B.
+m_StrgpbSub000001_04,A/B door interlock
+m_StrgpbSub000001_05,HOs
+m_StrlabSub000001_01,Name:
+m_StrlabSub000001_02,Alias:
+m_StrlabSub000001_03,Model:
+m_StrlabSub000001_04,Serial Number:
+m_StrlabSub000001_05,port：
+m_StrlabSub000001_06,Operating mode:
+m_StrlabSub000001_07,IP Address:
+m_StrlabSub000001_10,Device picture:
+m_StrlabSub000001_11,Level: LEVEL
+m_StrlabSub000001_12,Name:
+m_StrrdbSub000001_01,Enable
+m_StrrdbSub000001_02,Disable
+m_StrrdbSub000001_03,Area lock mode
+m_StrrdbSub000001_04,Times lock mode
+m_StrbutSub000001_01,Add HO
+m_StrbutSub000001_02,Import HOs
+m_StrbutSub000001_03,Export HOs
+m_StrbutSub000001_04,Select all
+m_StrbutSub000001_05,Unselect all
+m_StrbutSub000001_06,Execute
+m_StrbutSub000001_07,Search
+m_StrbutSub000001_08,Print report
+m_StrbutSub000001_09,Load template
+m_StrbutSub000001_10,Load setting
+m_StrbutSub000001_11,Save template
+m_StrbutSub000001_12,Save setting
+m_StrbutSub000001_13,Apply setting
+m_StrbutSub000001_14,Exit
+m_StrckbSub000001_01,Enable
+m_StrckbSub000001_02,Enable
+m_StrgpbDoor12_01,Configure door area 1
+m_StrgpbDoor12_02,Configure door area 2
+m_StrgpbDoor12_03,Configure door area 3
+m_StrgpbDoor12_04,Configure door area 4
+m_StrgpbDoor12_05,Configure door area 5
+m_StrgpbDoor12_06,Configure door area 6
+m_StrgpbDoor12_07,Configure door area 7
+m_StrgpbDoor12_08,Configure door area 8
+m_StrgpbDoor12_09,Configure door area 9
+m_StrgpbDoor12_10,Configure door area 10
+m_StrgpbDoor12_11,Configure door area 11
+m_StrgpbDoor12_12,Configure door area 12
+m_StrlabDoor12_01,No: 1
+m_StrlabDoor12_02,No: 2
+m_StrlabDoor12_03,No: 3
+m_StrlabDoor12_04,No: 4
+m_StrlabDoor12_05,No: 5
+m_StrlabDoor12_06,No: 6
+m_StrlabDoor12_07,No: 7
+m_StrlabDoor12_08,No: 8
+m_StrlabDoor12_09,No: 9
+m_StrlabDoor12_10,No: 10
+m_StrlabDoor12_11,No: 11
+m_StrlabDoor12_12,No: 12
+m_StrlabDoor12_13,Name:
+m_StrckbDoor12_01,Enable
+m_StrlabAB4Level1_00,A/B door interlock level 1
+m_StrlabAB4Level1_01,"4 doors interlock: One door open, others will lock until door close."
+m_StrlabAB4Level1_02,Door 1 (Door area 1):
+m_StrlabAB4Level1_03,Door 2 (Door area 2):
+m_StrlabAB4Level1_04,Door 3 (Door area 3):
+m_StrlabAB4Level1_05,Door 4 (Door area 4):
+m_StrlabAB4Level2_00,A/B door interlock level 2
+m_StrlabAB4Level2_01,"Divided 4 doors into two groups, Each group include 2 doors interlock."
+m_StrlabAB4Level2_02,Door 1 (Door area 1):
+m_StrlabAB4Level2_03,Door 2 (Door area 2):
+m_StrlabAB4Level2_04,Door 3 (Door area 3):
+m_StrlabAB4Level2_05,Door 4 (Door area 4):
+m_StrlabAB4Level2_06,Pass time (seconds):
+m_StrlabAB4Level2_07,Reset time (seconds):
+m_StrlabAB4Level3_00,A/B door interlock level 3
+m_StrlabAB4Level3_01,"Select 3 doors into a group, this group include 3 sequenced doors interlock."
+m_StrlabAB4Level3_02,Door 1 (Door area 1):
+m_StrlabAB4Level3_03,Door 2 (Door area 2):
+m_StrlabAB4Level3_04,Door 3 (Door area 3):
+m_StrlabAB4Level3_05,Door 4 (Door area 4):
+m_StrlabAB4Level3_06,Pass time (seconds):
+m_StrlabAB4Level3_07,Reset time (seconds):
+m_StrlabAB4Level4_00,A/B door interlock level 4
+m_StrlabAB4Level4_01,4 sequenced doors interlock.
+m_StrlabAB4Level4_02,Door 1 (Door area 1):
+m_StrlabAB4Level4_03,Door 2 (Door area 2):
+m_StrlabAB4Level4_04,Door 3 (Door area 3):
+m_StrlabAB4Level4_05,Door 4 (Door area 4):
+m_StrlabAB4Level4_06,Pass time (seconds):
+m_StrlabAB4Level4_07,Reset time (seconds):
+m_StrlabAB12Level1_00,A/B door interlock level 1
+m_StrlabAB12Level1_01,"12 doors interlock: One door open, others will lock until door close."
+m_StrlabAB12Level1_02,Door 1 (Door area 1):
+m_StrlabAB12Level1_03,Door 2 (Door area 2):
+m_StrlabAB12Level1_04,Door 3 (Door area 3):
+m_StrlabAB12Level1_05,Door 4 (Door area 4):
+m_StrlabAB12Level1_06,Door 5 (Door area 5):
+m_StrlabAB12Level1_07,Door 6 (Door area 6):
+m_StrlabAB12Level1_08,Door 7 (Door area 7):
+m_StrlabAB12Level1_09,Door 8 (Door area 8):
+m_StrlabAB12Level1_10,Door 9 (Door area 9):
+m_StrlabAB12Level1_11,Door 10 (Door area 10):
+m_StrlabAB12Level1_12,Door 11 (Door area 11):
+m_StrlabAB12Level1_13,Door 12 (Door area 12):
+m_StrlabAB12Level2_00,A/B door interlock level 2
+m_StrlabAB12Level2_01,"Divided 12 doors into 6 groups, Each group include 2 sequenced doors interlock."
+m_StrlabAB12Level2_02,Door 1 (Door area 1):
+m_StrlabAB12Level2_03,Door 2 (Door area 2):
+m_StrlabAB12Level2_04,Door 3 (Door area 3):
+m_StrlabAB12Level2_05,Door 4 (Door area 4):
+m_StrlabAB12Level2_06,Door 5 (Door area 5):
+m_StrlabAB12Level2_07,Door 6 (Door area 6):
+m_StrlabAB12Level2_08,Door 7 (Door area 7):
+m_StrlabAB12Level2_09,Door 8 (Door area 8):
+m_StrlabAB12Level2_10,Door 9 (Door area 9):
+m_StrlabAB12Level2_11,Door 10 (Door area 10):
+m_StrlabAB12Level2_12,Door 11 (Door area 11):
+m_StrlabAB12Level2_13,Door 12 (Door area 12):
+m_StrlabAB12Level2_14,Group 1:
+m_StrlabAB12Level2_15,Group 2:
+m_StrlabAB12Level2_16,Group 3:
+m_StrlabAB12Level2_17,Group 4:
+m_StrlabAB12Level2_18,Group 5:
+m_StrlabAB12Level2_19,Group 6:
+m_StrlabAB12Level2_20,Pass time (seconds):
+m_StrlabAB12Level2_21,Reset time (seconds):
+m_StrlabAB12Level3_00,A/B door interlock level 3
+m_StrlabAB12Level3_01,"Divided 12 doors into 4 groups, Each group include 3 sequenced doors interlock."
+m_StrlabAB12Level3_02,Door 1 (Door area 1):
+m_StrlabAB12Level3_03,Door 2 (Door area 2):
+m_StrlabAB12Level3_04,Door 3 (Door area 3):
+m_StrlabAB12Level3_05,Door 4 (Door area 4):
+m_StrlabAB12Level3_06,Door 5 (Door area 5):
+m_StrlabAB12Level3_07,Door 6 (Door area 6):
+m_StrlabAB12Level3_08,Door 7 (Door area 7):
+m_StrlabAB12Level3_09,Door 8 (Door area 8):
+m_StrlabAB12Level3_10,Door 9 (Door area 9):
+m_StrlabAB12Level3_11,Door 10 (Door area 10):
+m_StrlabAB12Level3_12,Door 11 (Door area 11):
+m_StrlabAB12Level3_13,Door 12 (Door area 12):
+m_StrlabAB12Level3_14,Group 1:
+m_StrlabAB12Level3_15,Group 2:
+m_StrlabAB12Level3_16,Group 3:
+m_StrlabAB12Level3_17,Group 4:
+m_StrlabAB12Level3_18,Pass time (seconds):
+m_StrlabAB12Level3_19,Reset time (seconds):
+m_StrlabAB12Level4_00,A/B door interlock level 4
+m_StrlabAB12Level4_01,"Divided 12 doors into 3 groups, Each group include 4 sequenced doors interlock."
+m_StrlabAB12Level4_02,Door 1 (Door area 1):
+m_StrlabAB12Level4_03,Door 2 (Door area 2):
+m_StrlabAB12Level4_04,Door 3 (Door area 3):
+m_StrlabAB12Level4_05,Door 4 (Door area 4):
+m_StrlabAB12Level4_06,Door 5 (Door area 5):
+m_StrlabAB12Level4_07,Door 6 (Door area 6):
+m_StrlabAB12Level4_08,Door 7 (Door area 7):
+m_StrlabAB12Level4_09,Door 8 (Door area 8):
+m_StrlabAB12Level4_10,Door 9 (Door area 9):
+m_StrlabAB12Level4_11,Door 10 (Door area 10):
+m_StrlabAB12Level4_12,Door 11 (Door area 11):
+m_StrlabAB12Level4_13,Door 12 (Door area 12):
+m_StrlabAB12Level4_14,Group 1:
+m_StrlabAB12Level4_15,Group 2:
+m_StrlabAB12Level4_16,Group 3:
+m_StrlabAB12Level4_17,Pass time (seconds):
+m_StrlabAB12Level4_18,Reset time (seconds):
+m_StrlabSub0004,Door area A.P.B. list
+m_StrlabSub0004_01,Filter:
+m_StrbutSub0004_01,Edit A.P.B.
+m_StrbutSub0004_02,Add A.P.B.
+m_StrbutSub0004_03,Import A.P.B. list
+m_StrbutSub0004_04,Export A.P.B. list
+m_StrbutSub0004_05,Print report
+m_StrbutSub0004_06,Exit
+m_StrbutSub0004_07,Select all
+m_StrbutSub0004_08,Unselect all
+m_StrbutSub0004_09,Execute
+m_StrbutSub0004_10,Search
+m_StrckbSub0004_01,Enable
+m_StrckbSub0004_02,Disable
+m_StrlabSub000301,Edit A.P.B. (Anti Pass-Back)
+m_StrlabSub000301_01,Region of door area
+m_StrlabSub000301_02,Door area A.P.B. list
+m_StrlabSub000301_03,Name:
+m_StrlabSub000301_04,Type:
+m_StrlabSub000301_05,Filter:
+m_StrlabSub000301_06,Level: LEVEL
+m_StrbutSub000301_01,Load A.P.B.
+m_StrbutSub000301_02,Save A.P.B.
+m_StrbutSub000301_03,Create A.P.B.
+m_StrbutSub000301_04,Load template
+m_StrbutSub000301_05,Save template
+m_StrbutSub000301_06,Search
+m_StrbutSub000301_07,Select all
+m_StrbutSub000301_08,Unselect all
+m_StrbutSub000301_09,Join door area
+m_StrbutSub000301_10,Search
+m_StrbutSub000301_11,Remove door area
+m_StrbutSub000301_12,Select all
+m_StrbutSub000301_13,Unselect all
+m_StrbutSub000301_14,Edit A.P.B.
+m_StrbutSub000301_15,Add A.P.B.
+m_StrbutSub000301_16,Import A.P.B. list
+m_StrbutSub000301_17,Export A.P.B. list
+m_StrbutSub000301_18,Print report
+m_StrbutSub000301_19,Select all
+m_StrbutSub000301_20,Unselect all
+m_StrbutSub000301_21,Execute
+m_StrbutSub000301_22,search
+m_StrbutSub000301_23,Exit
+m_StrckbSub000301_01,Region
+m_StrckbSub000301_02,Door area
+m_StrckbSub000301_03,Selected
+m_StrrdbSub000301_01,Area lock mode
+m_StrrdbSub000301_02,Times lock mode
+m_StrsteSub000301_01,Enable reset time 1
+m_StrsteSub000301_02,Enable reset time 2
+m_StrsteSub000301_03,Enable reset time 3
+m_StrsteSub000301_04,Enable reset time 4
+m_StrsteSub000301_05,Enable reset time 5
+m_StrsteSub000301_06,Enable reset time 6
+m_StrsteSub000301_07,Enable reset time 7
+m_StrsteSub000301_08,Enable reset time 8
+m_StrgpbSub000301_03,A.P.B. parameters
+m_StregsSub000001_01,Floor setting
+m_StrlabSub0001,Region of door area/elevator
+m_StrlabSub0001_01,Controller's door area/elevator list
+m_StrlabSub0001_02,Region of door area/elevator list
+m_StrlabSub0001_03,Filter:
+m_StrlabSub0001_04,Filter:
+m_StrckbSub0001_01,Controller
+m_StrckbSub0001_02,Door area
+m_StrckbSub0001_03,Elevator
+m_StrckbSub0001_04,Unused 
+m_StrckbSub0001_05,Selected
+m_StrckbSub0001_06,Door area
+m_StrckbSub0001_07,Elevator
+m_StrckbSub0001_08,Unused 
+m_StrbutSub0001_01,Search
+m_StrbutSub0001_02,Select all
+m_StrbutSub0001_03,Unselect all
+m_StrbutSub0001_04,Join door area/elevator
+m_StrbutSub0001_05,Setup door/elevator
+m_StrbutSub0001_06,Remove doorarea/elevator
+m_StrbutSub0001_07,Add area
+m_StrbutSub0001_08,Delete area
+m_StrbutSub0001_09,Import area
+m_StrbutSub0001_10,Export area
+m_StrbutSub0001_11,Search
+m_StrbutSub0001_12,Edit data setting
+m_StrbutSub0001_13,Print report
+m_StrbutSub0001_14,Exit
+m_StrlabSub0002,Region Group List
+m_StrbutSub0002_01,Edit group
+m_StrbutSub0002_02,Add group
+m_StrbutSub0002_03,Import groups
+m_StrbutSub0002_04,Export groups
+m_StrbutSub0002_05,Print report
+m_StrbutSub0002_06,Select all
+m_StrbutSub0002_07,Unselect all
+m_StrbutSub0002_08,Execute
+m_StrbutSub0002_09,Search
+m_StrbutSub0002_10,Exit
+m_StrlabSub0002_01,Filter:
+m_StrckbSub0002_01,Enable
+m_StrckbSub0002_02,Disable
+m_StrlabSub000200,Edit Region Group
+m_StrlabSub000200_01,Region of door area
+m_StrlabSub000200_02,Group name:
+m_StrbutSub000200_01,Load group
+m_StrbutSub000200_02,Save group
+m_StrbutSub000200_03,Create group
+m_StrbgbSub000200_02,Group parameters
+m_StrckbSub000200_01,Enable group parameters
+m_StrckbSub000200_02,Setup term
+m_StrlabSub000200_03,Start date:
+m_StrlabSub000200_04,End date:
+m_StrbutSub000200_04,Load template
+m_StrbutSub000200_05,Save template
+m_StrbgbSub000200_03,Access level
+m_StrrdbSub000200_01,LEVEL 0
+m_StrrdbSub000200_02,LEVEL 1
+m_StrrdbSub000200_03,LEVEL 2
+m_StrrdbSub000200_04,LEVEL 3
+m_StrbutSub000200_06,Select all
+m_StrbutSub000200_07,Unselect all
+m_StrbutSub000200_08,Search
+m_StrlabSub000200_05,Filter:
+m_StrckbSub000200_03,Region
+m_StrckbSub000200_04,Door area
+m_StrckbSub000200_05,Elevator
+m_StrckbSub000200_06,Selected
+m_StrbutSub000200_09,Setup region
+m_StrbutSub000200_10,View door area setting
+m_StrlabSub000200_06,Region Group List
+m_StrbutSub000200_11,Edit group
+m_StrbutSub000200_12,Add group
+m_StrbutSub000200_13,Import groups
+m_StrbutSub000200_14,Export groups
+m_StrbutSub000200_15,Print report
+m_StrbutSub000200_16,Select all
+m_StrbutSub000200_17,Unselect all
+m_StrbutSub000200_18,Execute
+m_StrbutSub000200_19,Search
+m_StrbutSub000200_20,Exit
+m_StrTabPageTagSys,Settings
+m_StrlabSys_01,Server IP:
+m_StrlabSys_02,User name:
+m_StrlabSys_03,User password:
+m_StrlabSys_04,Language:
+m_StrlabSys_05,Display font:
+m_StrlabSys_06,Font size:
+m_StrlabSys_07,Automatically adjust the resolution:
+m_StrlabSys_08,(Restart the program will take effect)
+m_StrckbSys_01,Enabled
+m_StrbutSys_01,Test
+m_StrbutSys_02,Save
+m_StrlabSysTitle,Owner name:
+m_StrlabSub000100,Region of door area/elevator
+m_StrgpbSub000100_01,Basic settings
+m_StrgpbSub000100_02,Pass settings
+m_StrgpbSub000100_03,Pass level
+m_StrgpbSub000100_04,Open door settings
+m_StrgpbSub000100_05,Anti-destruction detection settings
+m_StrgpbSub000100_06,Door detection settings
+m_StrgpbSub000100_07,Button to open the door
+m_StrgpbSub000100_08,Anti-coercion Open the door
+m_StrgpbSub000100_09,Overtime control settings
+m_StrgpbSub000100_10,Violent invasion settings
+m_StrgpbSub000100_11,Passing mode and time control
+m_StrgpbSub000100_12,Automatically open door
+m_StrlabSub000100_01,Name：
+m_StrlabSub000100_02,Password：
+m_StrlabSub000100_03,Number of errors：
+m_StrlabSub000100_04,Pause access
+m_StrlabSub000100_05,(Emergency open the door is not limited)
+m_StrlabSub000100_06,General cards：
+m_StrlabSub000100_07,VIP cards：
+m_StrlabSub000100_08,Modes：
+m_StrlabSub000100_09,Output module：
+m_StrlabSub000100_10,Duration seconds：
+m_StrlabSub000100_11,Module ID
+m_StrlabSub000100_12,Out node
+m_StrlabSub000100_13,Input detect channel：
+m_StrlabSub000100_14,(if set to 0,will stop detecting)
+m_StrlabSub000100_15,Module ID
+m_StrlabSub000100_16,In node
+m_StrlabSub000100_17,Output detect channel：
+m_StrlabSub000100_18,(if set to 0,will stop detecting)
+m_StrlabSub000100_19,Module ID
+m_StrlabSub000100_20,In node
+m_StrlabSub000100_21,Channel：
+m_StrlabSub000100_22,Module ID
+m_StrlabSub000100_23,In node
+m_StrlabSub000100_24,Channel：
+m_StrlabSub000100_25,Module ID
+m_StrlabSub000100_26,In node
+m_StrlabSub000100_27,Door password：
+m_StrlabSub000100_28,Linked Output module：
+m_StrlabSub000100_29,Module ID
+m_StrlabSub000100_30,Out node
+m_StrlabSub000100_31,Duration seconds：
+m_StrlabSub000100_32,Alarm sound：
+m_StrlabSub000100_33,Overtime：
+m_StrlabSub000100_34,Linked Output module：
+m_StrlabSub000100_35,Module ID
+m_StrlabSub000100_36,Out node
+m_StrlabSub000100_37,Duration seconds：
+m_StrlabSub000100_38,Alarm sound：
+m_StrlabSub000100_39,Linked Output module：
+m_StrlabSub000100_40,Module ID
+m_StrlabSub000100_41,Out node
+m_StrlabSub000100_42,Duration seconds：
+m_StrlabSub000100_43,Alarm sound：
+m_StrlabSub000100_44,Enter within timer：
+m_StrlabSub000100_45,(Choose one of Passwords)
+m_StrlabSub000100_46,Exit within timer:
+m_StrlabSub000100_47,(Choose one of Passwords)
+m_StrlabSub000100_48,Enter without timer:
+m_StrlabSub000100_49,(Choose one of Passwords)
+m_StrlabSub000100_50,Exit without timer:
+m_StrlabSub000100_51,(Choose one of Passwords)
+m_StrrdbSub000100_01,Pass
+m_StrrdbSub000100_02,Forbidden
+m_StrrdbSub000100_03,LEVEL 0
+m_StrrdbSub000100_04,LEVEL 1
+m_StrrdbSub000100_05,LEVEL 2
+m_StrrdbSub000100_06,LEVEL 3
+m_StrrdbSub000100_07,Effective card
+m_StrrdbSub000100_08,Passing card
+m_StrrdbSub000100_09,General mode
+m_StrrdbSub000100_10,Once again turn off mode
+m_StrrdbSub000100_11,Meet 1 can pass
+m_StrrdbSub000100_12,Meet 2 can pass
+m_StrrdbSub000100_13,Meet 3 can pass
+m_StrrdbSub000100_14,Meet 1 can pass
+m_StrrdbSub000100_15,Meet 2 can pass
+m_StrrdbSub000100_16,Meet 3 can pass
+m_StrrdbSub000100_17,Meet 1 can pass
+m_StrrdbSub000100_18,Meet 2 can pass
+m_StrrdbSub000100_19,Meet 3 can pass
+m_StrrdbSub000100_20,Meet 1 can pass
+m_StrrdbSub000100_21,Meet 2 can pass
+m_StrrdbSub000100_22,Meet 3 can pass
+m_StrrdbSub000100_23,Reader Enable within timer
+m_StrrdbSub000100_24,Reader Disable without timer
+m_StrrdbSub000100_25,Auto open
+m_StrrdbSub000100_26,First open
+m_StrrdbSub000100_27,Auto lock
+m_StrckbSub000100_01,Create logs
+m_StrckbSub000100_02,Central authorize
+m_StrckbSub000100_03,Blacklist alert
+m_StrckbSub000100_04,VIP Pass
+m_StrckbSub000100_05,Multi-card Pass
+m_StrckbSub000100_06,Enable
+m_StrckbSub000100_07,Create logs
+m_StrckbSub000100_08,Enable
+m_StrckbSub000100_09,Create logs
+m_StrckbSub000100_10,Access mode timer control
+m_StrckbSub000100_11,Enable
+m_StrckbSub000100_12,Enable
+m_StrckbSub000100_13,Alarm notice
+m_StrckbSub000100_14,Alarm notice
+m_StrckbSub000100_15,Card
+m_StrckbSub000100_16,Fingerprint
+m_StrckbSub000100_17,Personal password
+m_StrckbSub000100_18,Door password
+m_StrckbSub000100_19,Card
+m_StrckbSub000100_20,Fingerprint
+m_StrckbSub000100_21,Personal password
+m_StrckbSub000100_22,Door password
+m_StrckbSub000100_23,Card
+m_StrckbSub000100_24,Fingerprint
+m_StrckbSub000100_25,Personal password
+m_StrckbSub000100_26,Door password
+m_StrckbSub000100_27,Card
+m_StrckbSub000100_28,Fingerprint
+m_StrckbSub000100_29,Personal password
+m_StrckbSub000100_30,Door password
+m_StrckbSub000100_31,Time control
+m_StrckbSub000100_32,SU
+m_StrckbSub000100_33,MO
+m_StrckbSub000100_34,TU
+m_StrckbSub000100_35,WE
+m_StrckbSub000100_36,TH
+m_StrckbSub000100_37,FR
+m_StrckbSub000100_38,SA
+m_StrckbSub000100_39,HO
+m_StrckbSub000100_40,Enable
+m_StrckbSub000100_41,SU
+m_StrckbSub000100_42,MO
+m_StrckbSub000100_43,TU
+m_StrckbSub000100_44,WE
+m_StrckbSub000100_45,TH
+m_StrckbSub000100_46,FR
+m_StrckbSub000100_47,SA
+m_StrckbSub000100_48,HO
+m_StrsteckbSub000100_01,Time 1：
+m_StrsteckbSub000100_02,Time 2：
+m_StrsteckbSub000100_03,Time 3：
+m_StrsteckbSub000100_04,Time 4：
+m_StrsteckbSub000100_05,Time 5：
+m_StrsteckbSub000100_06,Time 6：
+m_StrsteckbSub000100_07,Time 7：
+m_StrsteckbSub000100_08,Time 8：
+m_StrsteckbSub000100_09,Time 1：
+m_StrsteckbSub000100_10,Time 2：
+m_StrsteckbSub000100_11,Time 3：
+m_StrsteckbSub000100_12,Time 4：
+m_StrsteckbSub000100_13,Time 5：
+m_StrsteckbSub000100_14,Time 6：
+m_StrsteckbSub000100_15,Time 7：
+m_StrsteckbSub000100_16,Time 8：
+m_StrbutSub000100_01,Setup controller…
+m_StrbutSub000100_02,Print report…
+m_StrbutSub000100_03,Load template…
+m_StrbutSub000100_04,Load setting…
+m_StrbutSub000100_05,Save template…
+m_StrbutSub000100_06,Save setting…
+m_StrbutSub000100_07,Default setting
+m_StrbutSub000100_08,Apply setting
+m_StrbutSub000100_09,Exit
+m_StrgpbSub000101_01,Basic settings
+m_StrgpbSub000101_02,Pass settings
+m_StrgpbSub000101_03,Pass level
+m_StrgpbSub000101_04,Anti-coercion Open the door
+m_StrgpbSub000101_05,Anti-destruction detection settings
+m_StrgpbSub000101_06,Passing mode and time control
+m_StrgpbSub000101_07,Automatically open door
+m_StrlabSub000101_01,Name：
+m_StrlabSub000101_02,Password：
+m_StrlabSub000101_03,Number of errors：
+m_StrlabSub000101_04,Pause access
+m_StrlabSub000101_05,(Emergency open the door is not limited)
+m_StrlabSub000101_06,General cards：
+m_StrlabSub000101_07,VIP cards：
+m_StrlabSub000101_08,Password：
+m_StrlabSub000101_09,Linked Output module：
+m_StrlabSub000101_10,Duration seconds：
+m_StrlabSub000101_11,Alarm sound：
+m_StrlabSub000101_12,Module ID
+m_StrlabSub000101_13,Out node
+m_StrlabSub000101_14,input detect channel：
+m_StrlabSub000101_15,(if set to 0,will stop detecting)
+m_StrlabSub000101_16,Module ID
+m_StrlabSub000101_17,In node
+m_StrlabSub000101_18,Output detect channel：
+m_StrlabSub000101_19,(if set to 0,will stop detecting)
+m_StrlabSub000101_20,Module ID
+m_StrlabSub000101_21,In node
+m_StrlabSub000101_22,Enter within timer：
+m_StrlabSub000101_23,(Choose one of Passwords)
+m_StrlabSub000101_24,Exit within timer:
+m_StrlabSub000101_25,(Choose one of Passwords)
+m_StrlabSub000101_26,Enter without timer:
+m_StrlabSub000101_27,(Choose one of Passwords)
+m_StrlabSub000101_28,Exit without timer:
+m_StrlabSub000101_29,(Choose one of Passwords)
+m_StrrdbSub000101_01,Pass
+m_StrrdbSub000101_02,Forbidden
+m_StrrdbSub000101_03,LEVEL 0
+m_StrrdbSub000101_04,LEVEL 1
+m_StrrdbSub000101_05,LEVEL 2
+m_StrrdbSub000101_06,LEVEL 3
+m_StrrdbSub000101_07,Effective card
+m_StrrdbSub000101_08,Passing card
+m_StrrdbSub000101_09,Meet 1 can pass
+m_StrrdbSub000101_10,Meet 2 can pass
+m_StrrdbSub000101_11,Meet 3 can pass
+m_StrrdbSub000101_12,Meet 1 can pass
+m_StrrdbSub000101_13,Meet 2 can pass
+m_StrrdbSub000101_14,Meet 3 can pass
+m_StrrdbSub000101_15,Meet 1 can pass
+m_StrrdbSub000101_16,Meet 2 can pass
+m_StrrdbSub000101_17,Meet 3 can pass
+m_StrrdbSub000101_18,Meet 1 can pass
+m_StrrdbSub000101_19,Meet 2 can pass
+m_StrrdbSub000101_20,Meet 3 can pass
+m_StrrdbSub000101_21,Reader Enable within timer
+m_StrrdbSub000101_22,Reader Disable without timer
+m_StrrdbSub000101_23,Auto open
+m_StrrdbSub000101_24,First open
+m_StrrdbSub000101_25,Auto lock
+m_StrckbSub000101_01,Create logs
+m_StrckbSub000101_02,Central authorize
+m_StrckbSub000101_03,Blacklist alert
+m_StrckbSub000101_04,VIP Pass
+m_StrckbSub000101_05,Multi-card Pass
+m_StrckbSub000101_06,Card
+m_StrckbSub000101_07,Fingerprint
+m_StrckbSub000101_08,Personal password
+m_StrckbSub000101_09,Door password
+m_StrckbSub000101_10,Card
+m_StrckbSub000101_11,Fingerprint
+m_StrckbSub000101_12,Personal password
+m_StrckbSub000101_13,Door password
+m_StrckbSub000101_14,Card
+m_StrckbSub000101_15,Fingerprint
+m_StrckbSub000101_16,Personal password
+m_StrckbSub000101_17,Door password
+m_StrckbSub000101_18,Card
+m_StrckbSub000101_19,Fingerprint
+m_StrckbSub000101_20,Personal password
+m_StrckbSub000101_21,Door password
+m_StrckbSub000101_22,Time Control
+m_StrckbSub000101_23,SU
+m_StrckbSub000101_24,MO
+m_StrckbSub000101_25,TU
+m_StrckbSub000101_26,WE
+m_StrckbSub000101_27,TH
+m_StrckbSub000101_28,FR
+m_StrckbSub000101_29,SA
+m_StrckbSub000101_30,HO
+m_StrckbSub000101_31,Enable
+m_StrckbSub000101_32,SU
+m_StrckbSub000101_33,MO
+m_StrckbSub000101_34,TU
+m_StrckbSub000101_35,WE
+m_StrckbSub000101_36,TH
+m_StrckbSub000101_37,FR
+m_StrckbSub000101_38,SA
+m_StrckbSub000101_39,HO
+m_StrckbSub000101_40,Enable
+m_StrsteSub000101_01,Time 1：
+m_StrsteSub000101_02,Time 2：
+m_StrsteSub000101_03,Time 3：
+m_StrsteSub000101_04,Time 4：
+m_StrsteSub000101_05,Time 5：
+m_StrsteSub000101_06,Time 6：
+m_StrsteSub000101_07,Time 7：
+m_StrsteSub000101_08,Time 8：
+m_StrsteSub000101_09,Time 1：
+m_StrsteSub000101_10,Time 2：
+m_StrsteSub000101_11,Time 3：
+m_StrsteSub000101_12,Time 4：
+m_StrsteSub000101_13,Time 5：
+m_StrsteSub000101_14,Time 6：
+m_StrsteSub000101_15,Time 7：
+m_StrsteSub000101_16,Time 8：
+m_StrbutSub000101_01,Setup controller…
+m_StrbutSub000101_02,Print report…
+m_StrbutSub000101_03,Load template…
+m_StrbutSub000101_04,Load setting…
+m_StrbutSub000101_05,Save template…
+m_StrbutSub000101_06,Save setting…
+m_StrbutSub000101_07,Default setting
+m_StrbutSub000101_08,Apply setting
+m_StrbutSub000101_09,Exit
+m_StrTabPageTag01,人员卡片管理 
+m_StrTabPageTag02,门区通行授权 
+m_StrTabPageTag03,传送作业 
+m_StrTabPageTag04,报表作业
+m_StrOutlookSubMenu10,人员数据管理
+m_StrOutlookSubMenu11,车辆数据管理
+m_StrOutlookSubMenu12,卡片数据管理
+m_StrOutlookSubMenu13,部门管理
+m_StrOutlookSubMenu14,人员车辆群组管理
+m_StrOutlookSubMenu20,人员门区通行授权
+m_StrOutlookSubMenu21,门区多卡通行授权
+m_StrOutlookSubMenu22,授权记录查询
+m_StrJLMBSubTxt10,人员车辆群组管理
+m_StrJLMBSubTxt11,管理车辆数据
+m_StrJLMBSubTxt12,管理卡片数据
+m_StrJLMBSubTxt14,人员车辆部门
+m_StrJLMBSubTxt20,授权人员车辆通行
+m_StrJLMBSubTxt21,多张卡片通行门区
+m_StrJLMBSubTxt22,查询授权记录
+m_StrlabSub0100,人员资料列表
+m_StrbutSub0100_01,编修人员
+m_StrbutSub0100_02,新增人员…
+m_StrbutSub0100_03,汇入人员…
+m_StrbutSub0100_04,汇出人员…	
+m_StrbutSub0100_05,输出报表...
+m_StrbutSub0100_06,全选
+m_StrbutSub0100_07,取消全选
+m_StrbutSub0100_08,执行
+m_StrbutSub0100_09,搜寻
+m_StrbutSub0100_10,离开
+m_StrlabSub0100_01,显示过滤：
+m_StrckbSub0100_01,已启用
+m_StrckbSub0100_02,已停用
+m_StrckbSub0100_03,已领卡
+m_StrckbSub0100_04,未领卡
+m_StrtxtSub0100_02,关键词
+m_StrlabSub0101,车辆数据列表
+m_StrlabSub0101_01,显示过滤：
+m_StrbutSub0101_01,编修车辆
+m_StrbutSub0101_02,新增车辆…
+m_StrbutSub0101_03,汇入车辆…
+m_StrbutSub0101_04,汇出车辆…
+m_StrbutSub0101_05,输出报表...
+m_StrbutSub0101_06,全选
+m_StrbutSub0101_07,取消全选
+m_StrbutSub0101_08,执行
+m_StrbutSub0101_09,搜寻
+m_StrbutSub0101_10,离开
+m_StrckbSub0101_01,已启用
+m_StrckbSub0101_02,已停用
+m_StrckbSub0101_03,已领卡
+m_StrckbSub0101_04,未领卡
+m_StrlabSub0102,卡片数据列表
+m_StrlabSub0102_01,显示过滤：
+m_StrbutSub0102_01,编修卡片
+m_StrbutSub0102_02,新增卡片…
+m_StrbutSub0102_03,汇入卡片…
+m_StrbutSub0102_04,导出卡片…
+m_StrbutSub0102_05,输出报表...
+m_StrbutSub0102_06,全选
+m_StrbutSub0102_07,取消全选
+m_StrbutSub0102_08,执行
+m_StrbutSub0102_09,搜寻
+m_StrbutSub0102_10,离开
+m_StrckbSub0102_01,已启用
+m_StrckbSub0102_02,已停用
+m_StrckbSub0102_03,已领卡
+m_StrckbSub0102_04,未领卡
+m_StrckbSub0102_05,未发放
+m_StrlabSub0103,人员车辆部门管理
+m_StrlabSub0103_01,部门
+m_StrlabSub0103_02,人员车辆部门列表
+m_StrlabSub0103_03,显示过滤：
+m_StrlabSub0103_04,显示过滤：
+m_StrbutSub0103_01,新增
+m_StrbutSub0103_02,删除
+m_StrbutSub0103_03,搜寻
+m_StrbutSub0103_04,新增
+m_StrbutSub0103_05,删除
+m_StrbutSub0103_06,搜寻
+m_StrbutSub0103_07,汇入部门…
+m_StrbutSub0103_08,汇出部门…
+m_StrbutSub0103_09,输出报表…
+m_StrbutSub0103_10,离开
+m_StrckbSub0103_01,部门
+m_StrckbSub0103_02,人员
+m_StrckbSub0103_03,车辆
+m_StrckbSub0103_04,部门
+m_StrckbSub0103_05,人员
+m_StrckbSub0103_06,车辆
+m_StrlabSub0104,人员车辆部门群组列表
+m_StrlabSub0104_01,显示过滤：
+m_StrbutSub0104_01,编修群组
+m_StrbutSub0104_02,新增群组
+m_StrbutSub0104_03,汇入群组…
+m_StrbutSub0104_04,汇出群组…
+m_StrbutSub0104_05,输出报表...
+m_StrbutSub0104_06,全选
+m_StrbutSub0104_07,取消全选
+m_StrbutSub0104_08,执行
+m_StrbutSub0104_09,搜寻
+m_StrbutSub0104_10,离开
+m_StrckbSub0104_01,已启用
+m_StrckbSub0104_02,已停用
+m_StrlabSub0200,授权记录
+m_StrlabSub0200_01,显示过滤：
+m_StrbutSub0200_01,编修授权记录
+m_StrbutSub0200_02,新增授权记录
+m_StrbutSub0200_03,汇入授权记录…
+m_StrbutSub0200_04,导出授权记录…
+m_StrbutSub0200_05,输出报表...
+m_StrbutSub0200_06,全选
+m_StrbutSub0200_07,取消全选
+m_StrbutSub0200_08,执行
+m_StrbutSub0200_09,搜寻
+m_StrbutSub0200_10,离开
+m_StrckbSub0200_01,发放授权
+m_StrckbSub0200_02,撤销授权
+m_StrlabSub010000,设置人员
+m_StrbgpSub010000_01,基本设置
+m_StrbgpSub010000_02,卡片列表
+m_StrlabSub010000_01,姓名：
+m_StrlabSub010000_02,别名：
+m_StrlabSub010000_03,性别：
+m_StrlabSub010000_04,照片：
+m_StrlabSub010000_05,部门：
+m_StrlabSub010000_06,职务：
+m_StrlabSub010000_07,出生日期：
+m_StrlabSub010000_08,工号：
+m_StrlabSub010000_09,身份证号：
+m_StrlabSub010000_10,证件编号：
+m_StrlabSub010000_11,办公电话：
+m_StrlabSub010000_12,住家电话：
+m_StrlabSub010000_13,移动电话：
+m_StrlabSub010000_14,联络人姓名：
+m_StrlabSub010000_15,E-Mail：
+m_StrlabSub010000_16,联络人电话：
+m_StrlabSub010000_17,住家地址：
+m_StrlabSub010000_18,通信地址：
+m_StrlabSub010000_19,备注：
+m_StrbutSub010000_01,清除
+m_StrbutSub010000_02,选择档案…
+m_StrbutSub010000_03,读取/扫描证件…
+m_StrbutSub010000_04,配发卡片…
+m_StrbutSub010000_05,全选
+m_StrbutSub010000_06,取消全选
+m_StrbutSub010000_07,执行
+m_StrbutSub010000_08,卡片设定…
+m_StrbutSub010000_09,输出报表...
+m_StrbutSub010000_10,载入样板…
+m_StrbutSub010000_11,加载设定...
+m_StrbutSub010000_12,储存样板...
+m_StrbutSub010000_13,储存设定...
+m_StrbutSub010000_14,套用设定
+m_StrbutSub010000_15,离开
+m_StrrdbSub010000_01,男	  
+m_StrrdbSub010000_02,女
+m_StrlabSub010100,设置车辆
+m_StrbgpSub010100_01,基本设置
+m_StrbgpSub010100_02,卡片列表
+m_StrlabSub010100_01,名称：
+m_StrlabSub010100_02,别名：
+m_StrlabSub010100_03,排气量：
+m_StrlabSub010100_04,照片：
+m_StrlabSub010100_05,车重：
+m_StrlabSub010100_06,部门：
+m_StrlabSub010100_07,驾驶：
+m_StrlabSub010100_08,出厂年份：
+m_StrlabSub010100_09,财产编号：
+m_StrlabSub010100_10,车牌编号：
+m_StrlabSub010100_11,车位号码：
+m_StrlabSub010100_12,厂商电话：
+m_StrlabSub010100_13,厂商行动：
+m_StrlabSub010100_14,保管人姓名：
+m_StrlabSub010100_15,厂商地址：
+m_StrlabSub010100_16,保管人电话：
+m_StrlabSub010100_17,备注：
+m_StrbutSub010100_01,清除
+m_StrbutSub010100_02,选择档案…
+m_StrbutSub010100_03,读取/扫描证件…
+m_StrbutSub010100_04,配发卡片…
+m_StrbutSub010100_05,全选
+m_StrbutSub010100_06,取消全选
+m_StrbutSub010100_07,执行
+m_StrbutSub010100_08,卡片设定…
+m_StrbutSub010100_09,输出报表...
+m_StrbutSub010100_10,载入样板…
+m_StrbutSub010100_11,加载设定...
+m_StrbutSub010100_12,储存样板...
+m_StrbutSub010100_13,储存设定...
+m_StrbutSub010100_14,套用设定
+m_StrbutSub010100_15,离开
+m_StrlabSub010200,设置卡片
+m_StrbgpSub010200_01,基本设置
+m_StrbgpSub010200_02,卡片设置
+m_StrbgpSub010200_03,通行周计划与时段
+m_StrbgpSub010200_04,卡片状态
+m_StrlabSub010200_01,持有人姓名：
+m_StrlabSub010200_02,卡片内码：
+m_StrlabSub010200_03,卡片类型：
+m_StrlabSub010200_04,卡片别名：
+m_StrlabSub010200_05,卡片密码：
+m_StrlabSub010200_06,显示文字：
+m_StrrdbSub010200_01,启用
+m_StrrdbSub010200_02,停用
+m_StrckbSub010200_01,VIP 卡
+m_StrckbSub010200_02,设置为黑名单
+m_StrckbSub010200_03,设置有效期限
+m_StrckbSub010200_04,星期日
+m_StrckbSub010200_05,星期一
+m_StrckbSub010200_06,星期二
+m_StrckbSub010200_07,星期三
+m_StrckbSub010200_08,星期四
+m_StrckbSub010200_09,星期五
+m_StrckbSub010200_10,星期六
+m_StrckbSub010200_11,例假日
+m_StrsteSub010200_01,启用时段 1
+m_StrsteSub010200_02,启用时段 2
+m_StrsteSub010200_03,启用时段 3
+m_StrbutSub010200_01,输出报表...
+m_StrbutSub010200_02,载入样板…
+m_StrbutSub010200_03,加载设定...
+m_StrbutSub010200_04,储存样板...
+m_StrbutSub010200_05,储存设定...
+m_StrbutSub010200_06,套用设定
+m_StrbutSub010200_07,离开
+m_StrlabSub010400_01,人员车辆部门
+m_StrlabSub010400_02,组名：
+m_StrlabSub010400_03,启用日期：
+m_StrlabSub010400_04,到期日期：
+m_StrlabSub010400_05,显示过滤：
+m_StrlabSub010400_06,人员车辆部门群组列表
+m_StrbutSub010400_01,载入群组…
+m_StrbutSub010400_02,储存群组…
+m_StrbutSub010400_03,建立群组
+m_StrbutSub010400_04,载入样板…
+m_StrbutSub010400_05,储存样板…
+m_StrbutSub010400_06,全选
+m_StrbutSub010400_07,取消全选
+m_StrbutSub010400_08,搜寻
+m_StrbutSub010400_09,设置部门…
+m_StrbutSub010400_10,卡片设定…
+m_StrbutSub010400_11,编修群组
+m_StrbutSub010400_12,新增群组
+m_StrbutSub010400_13,汇入群组…
+m_StrbutSub010400_14,汇出群组…
+m_StrbutSub010400_15,输出报表…
+m_StrbutSub010400_16,全选
+m_StrbutSub010400_17,清除选取
+m_StrbutSub010400_18,执行
+m_StrbutSub010400_19,搜寻
+m_StrbutSub010400_20,离开
+m_StrbgpSub010400_03,群组参数
+m_StrbgpSub010400_04,通行等级
+m_StrckbSub010400_01,启用群组参数
+m_StrckbSub010400_02,设置有效期限
+m_StrckbSub010400_03,部门
+m_StrckbSub010400_04,人员
+m_StrckbSub010400_05,车辆
+m_StrckbSub010400_06,仅勾选
+m_StrrdbSub010400_01,LEVEL 0
+m_StrrdbSub010400_02,LEVEL 1
+m_StrrdbSub010400_03,LEVEL 2
+m_StrrdbSub010400_04,LEVEL 3
+m_StrlabSub020000,授权设置
+m_StrlabSub020000_01,授权内容
+m_StrlabSub020000_02,授权名称：
+m_StrlabSub020000_03,区域门区
+m_StrlabSub020000_04,显示过滤：
+m_StrlabSub020000_05,部门人员车辆
+m_StrlabSub020000_06,显示过滤：
+m_StrlabSub020000_07,授权记录
+m_StrbutSub020000_01,授权设置…
+m_StrbutSub020000_02,载入授权…
+m_StrbutSub020000_03,储存授权…
+m_StrbutSub020000_04,建立授权记录
+m_StrbutSub020000_05,搜寻
+m_StrbutSub020000_06,全选
+m_StrbutSub020000_07,取消全选
+m_StrbutSub020000_08,检视授权内容…
+m_StrbutSub020000_09,检视门区设定…
+m_StrbutSub020000_10,搜寻
+m_StrbutSub020000_11,全选
+m_StrbutSub020000_12,取消全选
+m_StrbutSub020000_13,检视授权内容…
+m_StrbutSub020000_14,编辑数据设定…
+m_StrbutSub020000_15,编修授权记录
+m_StrbutSub020000_16,新增授权记录
+m_StrbutSub020000_17,汇入授权记录…
+m_StrbutSub020000_18,导出授权记录…
+m_StrbutSub020000_19,输出报表...
+m_StrbutSub020000_20,全选
+m_StrbutSub020000_21,取消全选
+m_StrbutSub020000_22,执行
+m_StrbutSub020000_23,搜寻
+m_StrbutSub020000_24,离开
+m_StrckbSub020000_01,群组
+m_StrckbSub020000_02,区域
+m_StrckbSub020000_03,门区
+m_StrckbSub020000_04,仅勾选
+m_StrckbSub020000_05,群组
+m_StrckbSub020000_06,部门
+m_StrckbSub020000_07,人员
+m_StrckbSub020000_08,车辆
+m_StrckbSub020000_09,仅勾选
+m_StrlabSub020001,检视门区设定
+m_StrbutSub020001_01,离开
+m_StrbgbSub020001_01,基本信息
+m_StrbgbSub020001_02,通行模式 (仅供只读参阅，欲更动设置，请至装置设备管理页面中进行操作)
+m_StrlabSub020001_01,名称：
+m_StrlabSub020001_02,状态：
+m_StrlabSub020001_03,所属区域：
+m_StrlabSub020001_04,通行等级：
+m_StrlabSub020001_05,通行期限：
+m_StrlabSub020001_06,时段内进入：
+m_StrlabSub020001_07,(密码二择一)
+m_StrlabSub020001_08,时段内外出：
+m_StrlabSub020001_09,(密码二择一)
+m_StrlabSub020001_10,时段外进入：
+m_StrlabSub020001_11,(密码二择一)
+m_StrlabSub020001_12,时段外外出：
+m_StrlabSub020001_13,(密码二择一)
+m_StrckbSub020001_01,刷卡通行
+m_StrckbSub020001_02,指纹通行
+m_StrckbSub020001_03,个人密码
+m_StrckbSub020001_04,门区密码
+m_StrckbSub020001_05,刷卡通行
+m_StrckbSub020001_06,指纹通行
+m_StrckbSub020001_07,个人密码
+m_StrckbSub020001_08,门区密码
+m_StrckbSub020001_09,刷卡通行
+m_StrckbSub020001_10,指纹通行
+m_StrckbSub020001_11,个人密码
+m_StrckbSub020001_12,门区密码
+m_StrckbSub020001_13,刷卡通行
+m_StrckbSub020001_14,指纹通行
+m_StrckbSub020001_15,个人密码
+m_StrckbSub020001_16,门区密码
+m_StrrdbSub020001_01,符合一项即可通行
+m_StrrdbSub020001_02,符合二项即可通行
+m_StrrdbSub020001_03,符合三项即可通行
+m_StrrdbSub020001_04,符合一项即可通行
+m_StrrdbSub020001_05,符合二项即可通行
+m_StrrdbSub020001_06,符合三项即可通行
+m_StrrdbSub020001_07,符合一项即可通行
+m_StrrdbSub020001_08,符合二项即可通行
+m_StrrdbSub020001_09,符合三项即可通行
+m_StrrdbSub020001_10,符合一项即可通行
+m_StrrdbSub020001_11,符合二项即可通行
+m_StrrdbSub020001_12,符合三项即可通行
+m_StrlabSub020002,设置电梯
+m_StrbgbSub020002_01,基本信息
+m_StrbgbSub020002_02,通行模式 (仅供只读参阅，欲更动设置，请至装置设备管理页面中进行操作)
+m_StregbSub020002_01,楼层设置
+m_StrckbSub020002_01,刷卡通行
+m_StrckbSub020002_02,指纹通行
+m_StrckbSub020002_03,个人密码
+m_StrckbSub020002_04,门区密码
+m_StrckbSub020002_05,刷卡通行
+m_StrckbSub020002_06,指纹通行
+m_StrckbSub020002_07,个人密码
+m_StrckbSub020002_08,门区密码
+m_StrckbSub020002_09,刷卡通行
+m_StrckbSub020002_10,指纹通行
+m_StrckbSub020002_11,个人密码
+m_StrckbSub020002_12,门区密码
+m_StrckbSub020002_13,刷卡通行
+m_StrckbSub020002_14,指纹通行
+m_StrckbSub020002_15,个人密码
+m_StrckbSub020002_16,门区密码
+m_StrrdbSub020002_01,符合一项即可通行
+m_StrrdbSub020002_02,符合二项即可通行
+m_StrrdbSub020002_03,符合三项即可通行
+m_StrrdbSub020002_04,符合一项即可通行
+m_StrrdbSub020002_05,符合二项即可通行
+m_StrrdbSub020002_06,符合三项即可通行
+m_StrrdbSub020002_07,符合一项即可通行
+m_StrrdbSub020002_08,符合二项即可通行
+m_StrrdbSub020002_09,符合三项即可通行
+m_StrrdbSub020002_10,符合一项即可通行
+m_StrrdbSub020002_11,符合二项即可通行
+m_StrrdbSub020002_12,符合三项即可通行
+m_StrbutSub020002_01,加载设定...
+m_StrbutSub020002_02,储存样板...
+m_StrbutSub020002_03,套用设定
+m_StrbutSub020002_04,离开
+m_StrlabSub020002_01,名称：
+m_StrlabSub020002_02,状态：
+m_StrlabSub020002_03,所属区域：
+m_StrlabSub020002_04,通行等级：
+m_StrlabSub020002_05,通行期限：
+m_StrlabSub020002_06,时段内进入：
+m_StrlabSub020002_07,时段内外出：
+m_StrlabSub020002_08,时段外进入：
+m_StrlabSub020002_09,时段外外出：
+m_StrlabSub020002_10,(密码二择一)
+m_StrlabSub020002_11,(密码二择一)
+m_StrlabSub020002_12,(密码二择一)
+m_StrlabSub020002_13,(密码二择一)
+m_StrConnectMsg00,联机测试
+m_StrConnectMsg01,联机测试成功
+m_StrConnectMsg02,联机测试失败
+m_StrControllerMsg00,还未储存设定，确定要离开吗?

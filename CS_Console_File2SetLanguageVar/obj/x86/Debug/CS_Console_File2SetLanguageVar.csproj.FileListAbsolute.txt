@@ -1,0 +1,4 @@
+C:\Users\RD\Desktop\CS_Console_File2SetLanguageVar\CS_Console_File2SetLanguageVar\bin\Debug\CS_Console_File2SetLanguageVar.exe
+C:\Users\RD\Desktop\CS_Console_File2SetLanguageVar\CS_Console_File2SetLanguageVar\bin\Debug\CS_Console_File2SetLanguageVar.pdb
+C:\Users\RD\Desktop\CS_Console_File2SetLanguageVar\CS_Console_File2SetLanguageVar\obj\x86\Debug\CS_Console_File2SetLanguageVar.exe
+C:\Users\RD\Desktop\CS_Console_File2SetLanguageVar\CS_Console_File2SetLanguageVar\obj\x86\Debug\CS_Console_File2SetLanguageVar.pdb

@@ -1,0 +1,1058 @@
+﻿m_StrTabPageTagWel,歡迎光臨
+m_StrTabPageTag00,裝置管理
+m_StrTabPageTag0000,控制器管理
+m_StrTabPageTag000001,設置控制器
+m_StrTabPageTag0001,門區
+m_StrTabPageTag000100,設置門區
+m_StrTabPageTag000101,設置電梯
+m_StrTabPageTag0002,門區群組列表
+m_StrTabPageTag000200,門區群組編修
+m_StrTabPageTag0003,門區A.P.B.群組 
+m_StrTabPageTag000301,門區A.P.B.編修
+m_StrWelcomePage00,歡迎使用
+m_StrWelcomePage01,您可以使用左側的操作選單，或者下面導引說明中的任何一個項目，來進行您的管理作業。
+m_StrMain00Page00,裝置管理
+m_StrMain00Page01,您可以使用左側的操作選單，或者下面導引說明中的任何一個項目，來進行您的管理作業。
+m_StrOutlookSubMenu00,控制器
+m_StrOutlookSubMenu01,門區
+m_StrOutlookSubMenu02,區域門區群組
+m_StrOutlookSubMenu03,門區A.P.B管理
+m_StrJLMBSubTxt00,管理控制器
+m_StrJLMBSubTxt01,設置區域門區與電梯
+m_StrJLMBSubTxt02,組織門區集群
+m_StrJLMBSubTxt03,組織門區反潛回
+m_StrJLMBMemoTxt00,
+m_StrJLMBMemoTxt01,
+m_StrJLMBMemoTxt02,
+m_StrJLMBMemoTxt03,
+m_StrlabSub0000,控制器管理
+m_StrbutSub0000_01,編修控制器
+m_StrbutSub0000_02,新增控制器
+m_StrbutSub0000_03,匯入控制器...
+m_StrbutSub0000_04,匯出控制器...
+m_StrbutSub0000_05,輸出報表...
+m_StrbutSub0000_06,離開
+m_StrbutSub0000_07,全選
+m_StrbutSub0000_08,取消全選
+m_StrbutSub0000_09,執行
+m_StrbutSub0000_10,搜尋
+m_StrlabSub0000_01,顯示過濾：
+m_StrckbSub0000_01,已啟用
+m_StrckbSub0000_02,已停用
+m_StrckbSub0000_03,門禁控制器
+m_StrckbSub0000_04,電梯控制器
+m_StrckbSub0000_05,已啟用 A.P.B.
+m_StrckbSub0000_06,已啟用 A/B 門 
+m_StrtxtSub0000_01,輸入關鍵字
+m_StrlabSub000001,設置控制器
+m_StrgpbSub000001_01,基本設置
+m_StrgpbSub000001_02,狀態
+m_StrgpbSub000001_03,A.P.B. 設置
+m_StrgpbSub000001_04,A/B 門區互鎖設置
+m_StrgpbSub000001_05,例假日列表          
+m_StrlabSub000001_01,名稱：
+m_StrlabSub000001_02,別名：
+m_StrlabSub000001_03,型號：
+m_StrlabSub000001_04,序號：
+m_StrlabSub000001_05,連接埠：
+m_StrlabSub000001_06,連線方式：
+m_StrlabSub000001_07,連線位址：
+m_StrlabSub000001_10,裝置參考圖片：
+m_StrlabSub000001_11,層級：LEVEL
+m_StrlabSub000001_12,名稱：
+m_StrrdbSub000001_01,啟用
+m_StrrdbSub000001_02,停用
+m_StrrdbSub000001_03,門區鎖定模式
+m_StrrdbSub000001_04,次數鎖定模式
+m_StrbutSub000001_01,新增假日
+m_StrbutSub000001_02,匯入假日...
+m_StrbutSub000001_03,匯出假日...
+m_StrbutSub000001_04,全選
+m_StrbutSub000001_05,取消全選
+m_StrbutSub000001_06,執行
+m_StrbutSub000001_07,搜尋
+m_StrbutSub000001_08,輸出報表...
+m_StrbutSub000001_09,載入樣板...
+m_StrbutSub000001_10,載入設定...
+m_StrbutSub000001_11,儲存樣板...
+m_StrbutSub000001_12,儲存設定...
+m_StrbutSub000001_13,套用設定
+m_StrbutSub000001_14,離開
+m_StrckbSub000001_01,啟用
+m_StrckbSub000001_02,啟用
+m_StrgpbDoor12_01,門區 1 設置
+m_StrgpbDoor12_02,門區 2 設置
+m_StrgpbDoor12_03,門區 3 設置
+m_StrgpbDoor12_04,門區 4 設置
+m_StrgpbDoor12_05,門區 5 設置
+m_StrgpbDoor12_06,門區 6 設置
+m_StrgpbDoor12_07,門區 7 設置
+m_StrgpbDoor12_08,門區 8 設置
+m_StrgpbDoor12_09,門區 9 設置
+m_StrgpbDoor12_10,門區 10 設置
+m_StrgpbDoor12_11,門區 11 設置
+m_StrgpbDoor12_12,門區 12 設置
+m_StrlabDoor12_01,編號：        1
+m_StrlabDoor12_02,編號：        2
+m_StrlabDoor12_03,編號：        3
+m_StrlabDoor12_04,編號：        4
+m_StrlabDoor12_05,編號：        5
+m_StrlabDoor12_06,編號：        6
+m_StrlabDoor12_07,編號：        7
+m_StrlabDoor12_08,編號：        8
+m_StrlabDoor12_09,編號：        9
+m_StrlabDoor12_10,編號：        10
+m_StrlabDoor12_11,編號：        11
+m_StrlabDoor12_12,編號：        12
+m_StrlabDoor12_13,名稱:
+m_StrckbDoor12_01,啟用
+m_StrlabAB4Level1_00,A/B 門區 LEVEL 1
+m_StrlabAB4Level1_01,4 個門將互相鎖定，當開啟其中一門，其餘門區將產生&暫時鎖定，直至通行完畢恢復門位狀態。
+m_StrlabAB4Level1_02,Door 1：
+m_StrlabAB4Level1_03,Door 2：
+m_StrlabAB4Level1_04,Door 3：
+m_StrlabAB4Level1_05,Door 4：
+m_StrlabAB4Level2_00,A/B 門區 LEVEL 2
+m_StrlabAB4Level2_01,本設置將 4 個門區分為兩組；兩組各自獨立進行門區互相鎖定。並於單組門區與門區間所形成之區域，可給定一通行時限，若設置為 0 表不限時。
+m_StrlabAB4Level2_02,Door 1：
+m_StrlabAB4Level2_03,Door 2：
+m_StrlabAB4Level2_04,Door 3：
+m_StrlabAB4Level2_05,Door 4：
+m_StrlabAB4Level2_06,通行限時(秒)：
+m_StrlabAB4Level2_07,重置時間(秒)：
+m_StrlabAB4Level3_00,A/B 門區 LEVEL 3
+m_StrlabAB4Level3_01,本設置將 4 個門區中前 3 門區成立一互鎖機制，且進出通行時必須依照以下門區連結關係順序進行。並於門區與門區間所形成之區域，可給定一通行時限，若設置為 0 表不限時。
+m_StrlabAB4Level3_02,Door 1：
+m_StrlabAB4Level3_03,Door 2：
+m_StrlabAB4Level3_04,Door 3：
+m_StrlabAB4Level3_05,Door 4：
+m_StrlabAB4Level3_06,通行限時(秒)：
+m_StrlabAB4Level3_07,重置時間(秒)：
+m_StrlabAB4Level4_00,A/B 門區 LEVEL 4
+m_StrlabAB4Level4_01,本設置將 4 個門區成立互鎖機制，且進出通行時必須依照以下門區連結關係順序進行。並於門區與門區間所形成之區域，可給定一通行時限，若設置為 0 表不限時。
+m_StrlabAB4Level4_02,Door 1：
+m_StrlabAB4Level4_03,Door 2：
+m_StrlabAB4Level4_04,Door 3：
+m_StrlabAB4Level4_05,Door 4：
+m_StrlabAB4Level4_06,通行限時(秒)：
+m_StrlabAB4Level4_07,重置時間(秒)：
+m_StrlabAB12Level1_00,A/B 門區 LEVEL 1
+m_StrlabAB12Level1_01,12 個門將互相鎖定，當開啟其中一門，其餘門區將產生暫時鎖定，直至通行完畢恢復門位狀態。
+m_StrlabAB12Level1_02,Door 1：
+m_StrlabAB12Level1_03,Door 2：
+m_StrlabAB12Level1_04,Door 3：
+m_StrlabAB12Level1_05,Door 4：
+m_StrlabAB12Level1_06,Door 5：
+m_StrlabAB12Level1_07,Door 6：
+m_StrlabAB12Level1_08,Door 7：
+m_StrlabAB12Level1_09,Door 8：
+m_StrlabAB12Level1_10,Door 9：
+m_StrlabAB12Level1_11,Door 10：
+m_StrlabAB12Level1_12,Door 11：
+m_StrlabAB12Level1_13,Door 12：
+m_StrlabAB12Level2_00,A/B 門區 LEVEL 2
+m_StrlabAB12Level2_01,本設置將成立 6 組各 2 個門區之互鎖機制，於各組內進行互鎖，且進出通行時必須依照以下門區連結關係順序進行。並於門區與門區間所形成之區域，可給定一&通行時限&，若設置為 0 表不限時。
+m_StrlabAB12Level2_02,Door 1：
+m_StrlabAB12Level2_03,Door 2：
+m_StrlabAB12Level2_04,Door 3：
+m_StrlabAB12Level2_05,Door 4：
+m_StrlabAB12Level2_06,Door 5：
+m_StrlabAB12Level2_07,Door 6：
+m_StrlabAB12Level2_08,Door 7：
+m_StrlabAB12Level2_09,Door 8：
+m_StrlabAB12Level2_10,Door 9：
+m_StrlabAB12Level2_11,Door 10：
+m_StrlabAB12Level2_12,Door 11：
+m_StrlabAB12Level2_13,Door 12：
+m_StrlabAB12Level2_14,Group 1：
+m_StrlabAB12Level2_15,Group 2：
+m_StrlabAB12Level2_16,Group 3：
+m_StrlabAB12Level2_17,Group 4：
+m_StrlabAB12Level2_18,Group 5：
+m_StrlabAB12Level2_19,Group 6：
+m_StrlabAB12Level2_20,通行限時(秒)：
+m_StrlabAB12Level2_21,重置時間(秒)：
+m_StrlabAB12Level3_00,A/B 門區 LEVEL 3
+m_StrlabAB12Level3_01,本設置將成立 4 組各 3 個門區之互鎖機制，於各組內進行互鎖，且進出通行時必須依照以下門區連結關係順序進行。並於門區與門區間所形成之區域，可給定一通行時限，若設置為 0 表不限時。
+m_StrlabAB12Level3_02,Door 1：
+m_StrlabAB12Level3_03,Door 2：
+m_StrlabAB12Level3_04,Door 3：
+m_StrlabAB12Level3_05,Door 4：
+m_StrlabAB12Level3_06,Door 5：
+m_StrlabAB12Level3_07,Door 6：
+m_StrlabAB12Level3_08,Door 7：
+m_StrlabAB12Level3_09,Door 8：
+m_StrlabAB12Level3_10,Door 9：
+m_StrlabAB12Level3_11,Door 10：
+m_StrlabAB12Level3_12,Door 11：
+m_StrlabAB12Level3_13,Door 12：
+m_StrlabAB12Level3_14,Group 1：
+m_StrlabAB12Level3_15,Group 2：
+m_StrlabAB12Level3_16,Group 3：
+m_StrlabAB12Level3_17,Group 4：
+m_StrlabAB12Level3_18,通行限時(秒)：
+m_StrlabAB12Level3_19,重置時間(秒)：
+m_StrlabAB12Level4_00,A/B 門區 LEVEL 4
+m_StrlabAB12Level4_01,本設置將成立 3 組各 4 個門區之互鎖機制，於各組內進行互鎖，且進出通行時必須依照以下門區連結關係順序進行。並於門區與門區間所形成之區域，可給定一通行時限，若設置為 0 表不限時。
+m_StrlabAB12Level4_02,Door 1：
+m_StrlabAB12Level4_03,Door 2：
+m_StrlabAB12Level4_04,Door 3：
+m_StrlabAB12Level4_05,Door 4：
+m_StrlabAB12Level4_06,Door 5：
+m_StrlabAB12Level4_07,Door 6：
+m_StrlabAB12Level4_08,Door 7：
+m_StrlabAB12Level4_09,Door 8：
+m_StrlabAB12Level4_10,Door 9：
+m_StrlabAB12Level4_11,Door 10：
+m_StrlabAB12Level4_12,Door 11：
+m_StrlabAB12Level4_13,Door 12：
+m_StrlabAB12Level4_14,Group 1：
+m_StrlabAB12Level4_15,Group 2：
+m_StrlabAB12Level4_16,Group 3：
+m_StrlabAB12Level4_17,通行限時(秒)：
+m_StrlabAB12Level4_18,重置時間(秒)：
+m_StrlabSub0004,門區A.P.B.群組 
+m_StrlabSub0004_01,顯示過濾: 
+m_StrbutSub0004_01,編修 A.P.B. 
+m_StrbutSub0004_02,新增 A.P.B. 
+m_StrbutSub0004_03,匯入 A.P.B. 
+m_StrbutSub0004_04,匯出 A.P.B.
+m_StrbutSub0004_05,輸出報表… 
+m_StrbutSub0004_06,離開 
+m_StrbutSub0004_07,全選 
+m_StrbutSub0004_08,清除選取 
+m_StrbutSub0004_09,執行 
+m_StrbutSub0004_10,搜尋 
+m_StrckbSub0004_01,已啟用 	
+m_StrckbSub0004_02,已停用 
+m_StrlabSub000301,A.P.B.群組編修
+m_StrlabSub000301_01,門區A.P.B.群組編修
+m_StrlabSub000301_02,門區 A.P.B. 群組
+m_StrlabSub000301_03,名稱：
+m_StrlabSub000301_04,類型：
+m_StrlabSub000301_05,顯示過濾：
+m_StrlabSub000301_06,門區層級設置：LEVEL
+m_StrbutSub000301_01,載入 A.P.B.
+m_StrbutSub000301_02,儲存 A.P.B.
+m_StrbutSub000301_03,建立 A.P.B.
+m_StrbutSub000301_04,載入樣板…
+m_StrbutSub000301_05,儲存樣板…
+m_StrbutSub000301_06,搜尋
+m_StrbutSub000301_07,全選
+m_StrbutSub000301_08,清除選取
+m_StrbutSub000301_09,加入門區
+m_StrbutSub000301_10,搜尋
+m_StrbutSub000301_11,移出門區
+m_StrbutSub000301_12,全選
+m_StrbutSub000301_13,清除選取
+m_StrbutSub000301_14,編修 A.P.B.
+m_StrbutSub000301_15,新增 A.P.B.
+m_StrbutSub000301_16,匯入 A.P.B.…
+m_StrbutSub000301_17,匯出 A.P.B.…
+m_StrbutSub000301_18,輸出報表…
+m_StrbutSub000301_19,全選
+m_StrbutSub000301_20,清除選取
+m_StrbutSub000301_21,執行
+m_StrbutSub000301_22,搜尋
+m_StrbutSub000301_23,離開
+m_StrckbSub000301_01,區域
+m_StrckbSub000301_02,門區
+m_StrckbSub000301_03,僅勾選
+m_StrrdbSub000301_01,門區鎖定模式
+m_StrrdbSub000301_02,次數鎖定模式
+m_StrsteSub000301_01,重置時間 1
+m_StrsteSub000301_02,重置時間 2
+m_StrsteSub000301_03,重置時間 3
+m_StrsteSub000301_04,重置時間 4
+m_StrsteSub000301_05,重置時間 5
+m_StrsteSub000301_06,重置時間 6
+m_StrsteSub000301_07,重置時間 7
+m_StrsteSub000301_08,重置時間 8
+m_StrgpbSub000301_03,A.P.B. 參數
+m_StregsSub000001_01,樓層設置
+m_StrlabSub0001,門區 
+m_StrlabSub0001_01,控制器門區列表 
+m_StrlabSub0001_02,區域門區組成列表 
+m_StrlabSub0001_03,顯示過濾： 
+m_StrlabSub0001_04,顯示過濾： 
+m_StrckbSub0001_01,控制器 
+m_StrckbSub0001_02,門區 
+m_StrckbSub0001_03,電梯 
+m_StrckbSub0001_04,未使用 
+m_StrckbSub0001_05,僅勾選 
+m_StrckbSub0001_06,門區 
+m_StrckbSub0001_07,電梯 
+m_StrckbSub0001_08,未使用 
+m_StrbutSub0001_01,搜尋 
+m_StrbutSub0001_02,全選 
+m_StrbutSub0001_03,清除選取 
+m_StrbutSub0001_04,加入區域 
+m_StrbutSub0001_05,設置門區資料
+m_StrbutSub0001_06,移出區域 
+m_StrbutSub0001_07,新增區域… 
+m_StrbutSub0001_08,刪除區域 
+m_StrbutSub0001_09,匯入區域… 
+m_StrbutSub0001_10,匯出區域… 
+m_StrbutSub0001_11,搜尋 
+m_StrbutSub0001_12,編輯門區資料
+m_StrbutSub0001_13,輸出報表… 
+m_StrbutSub0001_14,離開 
+m_StrlabSub0002,區域門區群組列表
+m_StrbutSub0002_01,編修群組
+m_StrbutSub0002_02,新增群組
+m_StrbutSub0002_03,匯入群組…
+m_StrbutSub0002_04,匯出群組…
+m_StrbutSub0002_05,輸出報表…
+m_StrbutSub0002_06,全選
+m_StrbutSub0002_07,清除選取
+m_StrbutSub0002_08,執行
+m_StrbutSub0002_09,搜尋
+m_StrbutSub0002_10,離開
+m_StrlabSub0002_01,顯示過濾：
+m_StrckbSub0002_01,已啟用
+m_StrckbSub0002_02,已停用
+m_StrlabSub000200,區域門區群組編修
+m_StrlabSub000200_01,區域門區
+m_StrlabSub000200_02,群組名稱：
+m_StrbutSub000200_01,載入群組…
+m_StrbutSub000200_02,儲存群組…
+m_StrbutSub000200_03,建立群組
+m_StrbgbSub000200_02,群組參數
+m_StrckbSub000200_01,啟用群組參數
+m_StrckbSub000200_02,設置有效期限
+m_StrlabSub000200_03,啟用日期：
+m_StrlabSub000200_04,到期日期：
+m_StrbutSub000200_04,載入樣板…
+m_StrbutSub000200_05,儲存樣板…
+m_StrbgbSub000200_03,通行等級
+m_StrrdbSub000200_01,LEVEL 0
+m_StrrdbSub000200_02,LEVEL 1
+m_StrrdbSub000200_03,LEVEL 2
+m_StrrdbSub000200_04,LEVEL 3
+m_StrbutSub000200_06,全選
+m_StrbutSub000200_07,清除選取
+m_StrbutSub000200_08,搜尋
+m_StrlabSub000200_05,顯示過濾：
+m_StrckbSub000200_03,區域
+m_StrckbSub000200_04,門區
+m_StrckbSub000200_05,電梯
+m_StrckbSub000200_06,僅勾選
+m_StrbutSub000200_09,設置區域…
+m_StrbutSub000200_10,編輯門區資料
+m_StrlabSub000200_06,區域門區群組列表
+m_StrbutSub000200_11,編修群組
+m_StrbutSub000200_12,新增群組
+m_StrbutSub000200_13,匯入群組…
+m_StrbutSub000200_14,匯出群組…
+m_StrbutSub000200_15,輸出報表…
+m_StrbutSub000200_16,全選
+m_StrbutSub000200_17,清除選取
+m_StrbutSub000200_18,執行
+m_StrbutSub000200_19,搜尋
+m_StrbutSub000200_20,離開
+m_StrTabPageTagSys,系統設定
+m_StrlabSys_01,Server IP：
+m_StrlabSys_02,用戶名稱：
+m_StrlabSys_03,用戶密碼：
+m_StrlabSys_04,Language：
+m_StrlabSys_05,顯示字型：
+m_StrlabSys_06,字型大小：
+m_StrlabSys_07,自動調整解析度：
+m_StrlabSys_08,(重啟程式才會生效)
+m_StrckbSys_01,啟用
+m_StrbutSys_01,測試
+m_StrbutSys_02,儲存設定
+m_StrlabSysTitle,業主名稱：
+m_StrlabSub000100,門區
+m_StrgpbSub000100_01,基本設置
+m_StrgpbSub000100_02,通行設置
+m_StrgpbSub000100_03,通行等級
+m_StrgpbSub000100_04,開門操作設置
+m_StrgpbSub000100_05,反破壞偵測設置
+m_StrgpbSub000100_06,門位偵測設置
+m_StrgpbSub000100_07,按鈕開門
+m_StrgpbSub000100_08,反脅迫開門
+m_StrgpbSub000100_09,開門逾時控制
+m_StrgpbSub000100_10,暴力入侵
+m_StrgpbSub000100_11,通行模式與時段控制
+m_StrgpbSub000100_12,自動開門
+m_StrlabSub000100_01,名稱：
+m_StrlabSub000100_02,門區密碼：
+m_StrlabSub000100_03,密碼錯誤次數：
+m_StrlabSub000100_04,次後暫停通行
+m_StrlabSub000100_05,(緊急遙控開門不受此限制)
+m_StrlabSub000100_06,一般卡片數量(張)：
+m_StrlabSub000100_07,VIP,卡片數量(張)：
+m_StrlabSub000100_08,操作模式：
+m_StrlabSub000100_09,輸出模組通道：
+m_StrlabSub000100_10,操作動作時間(秒)：
+m_StrlabSub000100_11,模組 ID
+m_StrlabSub000100_12,輸出通道
+m_StrlabSub000100_13,進入方向偵測模組通道：
+m_StrlabSub000100_14,(通道設置為 0，將停止偵測)
+m_StrlabSub000100_15,模組 ID
+m_StrlabSub000100_16,輸入通道
+m_StrlabSub000100_17,外出方向偵測模組通道：
+m_StrlabSub000100_18,(通道設置為 0，將停止偵測)
+m_StrlabSub000100_19,模組 ID
+m_StrlabSub000100_20,輸入通道
+m_StrlabSub000100_21,偵測模組通道：
+m_StrlabSub000100_22,模組 ID
+m_StrlabSub000100_23,輸入通道
+m_StrlabSub000100_24,按鈕模組通道：
+m_StrlabSub000100_25,模組 ID
+m_StrlabSub000100_26,輸入通道
+m_StrlabSub000100_27,開門密碼：
+m_StrlabSub000100_28,連動輸出模組通道：
+m_StrlabSub000100_29,模組 ID
+m_StrlabSub000100_30,輸出通道
+m_StrlabSub000100_31,接點動作持續秒數：
+m_StrlabSub000100_32,警報通知音效：
+m_StrlabSub000100_33,逾時秒數：
+m_StrlabSub000100_34,連動輸出模組通道：
+m_StrlabSub000100_35,模組 ID
+m_StrlabSub000100_36,輸出通道
+m_StrlabSub000100_37,接點動作持續秒數：
+m_StrlabSub000100_38,警報通知音效：
+m_StrlabSub000100_39,連動輸出模組通道：
+m_StrlabSub000100_40,模組 ID
+m_StrlabSub000100_41,輸出通道
+m_StrlabSub000100_42,接點動作持續秒數：
+m_StrlabSub000100_43,警報通知音效：
+m_StrlabSub000100_44,時段內進入：
+m_StrlabSub000100_45,(密碼二擇一)
+m_StrlabSub000100_46,時段內外出：
+m_StrlabSub000100_47,(密碼二擇一)
+m_StrlabSub000100_48,時段外進入：
+m_StrlabSub000100_49,(密碼二擇一)
+m_StrlabSub000100_50,時段外外出：
+m_StrlabSub000100_51,(密碼二擇一)
+m_StrrdbSub000100_01,開放通行
+m_StrrdbSub000100_02,禁止通行
+m_StrrdbSub000100_03,LEVEL 0
+m_StrrdbSub000100_04,LEVEL 1
+m_StrrdbSub000100_05,LEVEL 2
+m_StrrdbSub000100_06,LEVEL 3
+m_StrrdbSub000100_07,有效卡開門
+m_StrrdbSub000100_08,可通行卡開門
+m_StrrdbSub000100_09,一般模式
+m_StrrdbSub000100_10,一次開啟一次關閉模式
+m_StrrdbSub000100_11,符合一項即可通行
+m_StrrdbSub000100_12,符合二項即可通行
+m_StrrdbSub000100_13,符合三項即可通行
+m_StrrdbSub000100_14,符合一項即可通行
+m_StrrdbSub000100_15,符合二項即可通行
+m_StrrdbSub000100_16,符合三項即可通行
+m_StrrdbSub000100_17,符合一項即可通行
+m_StrrdbSub000100_18,符合二項即可通行
+m_StrrdbSub000100_19,符合三項即可通行
+m_StrrdbSub000100_20,符合一項即可通行
+m_StrrdbSub000100_21,符合二項即可通行
+m_StrrdbSub000100_22,符合三項即可通行
+m_StrrdbSub000100_23,時段外讀卡機可讀卡
+m_StrrdbSub000100_24,時段外讀卡機無法讀卡
+m_StrrdbSub000100_25,自動開啟
+m_StrrdbSub000100_26,首卡開啟
+m_StrrdbSub000100_27,自動關閉
+m_StrckbSub000100_01,產生日誌記錄
+m_StrckbSub000100_02,中心授權開門
+m_StrckbSub000100_03,產生黑名單警報訊息
+m_StrckbSub000100_04,VIP 通行
+m_StrckbSub000100_05,多卡通行
+m_StrckbSub000100_06,啟用
+m_StrckbSub000100_07,產生日誌記錄
+m_StrckbSub000100_08,啟用
+m_StrckbSub000100_09,產生日誌記錄
+m_StrckbSub000100_10,配合通行模式時段控制
+m_StrckbSub000100_11,啟用
+m_StrckbSub000100_12,啟用
+m_StrckbSub000100_13,啟用警報通知
+m_StrckbSub000100_14,啟用警報通知
+m_StrckbSub000100_15,刷卡通行
+m_StrckbSub000100_16,指紋通行
+m_StrckbSub000100_17,個人密碼
+m_StrckbSub000100_18,門區密碼
+m_StrckbSub000100_19,刷卡通行
+m_StrckbSub000100_20,指紋通行
+m_StrckbSub000100_21,個人密碼
+m_StrckbSub000100_22,門區密碼
+m_StrckbSub000100_23,刷卡通行
+m_StrckbSub000100_24,指紋通行
+m_StrckbSub000100_25,個人密碼
+m_StrckbSub000100_26,門區密碼
+m_StrckbSub000100_27,刷卡通行
+m_StrckbSub000100_28,指紋通行
+m_StrckbSub000100_29,個人密碼
+m_StrckbSub000100_30,門區密碼
+m_StrckbSub000100_31,啟用時段控制
+m_StrckbSub000100_32,星期日
+m_StrckbSub000100_33,星期一
+m_StrckbSub000100_34,星期二
+m_StrckbSub000100_35,星期三
+m_StrckbSub000100_36,星期四
+m_StrckbSub000100_37,星期五
+m_StrckbSub000100_38,星期六
+m_StrckbSub000100_39,假日
+m_StrckbSub000100_40,啟用
+m_StrckbSub000100_41,星期日
+m_StrckbSub000100_42,星期一
+m_StrckbSub000100_43,星期二
+m_StrckbSub000100_44,星期三
+m_StrckbSub000100_45,星期四
+m_StrckbSub000100_46,星期五
+m_StrckbSub000100_47,星期六
+m_StrckbSub000100_48,假日
+m_StrsteckbSub000100_01,時段 1：
+m_StrsteckbSub000100_02,時段 2：
+m_StrsteckbSub000100_03,時段 3：
+m_StrsteckbSub000100_04,時段 4：
+m_StrsteckbSub000100_05,時段 5：
+m_StrsteckbSub000100_06,時段 6：
+m_StrsteckbSub000100_07,時段 7：
+m_StrsteckbSub000100_08,時段 8：
+m_StrsteckbSub000100_09,時段 1：
+m_StrsteckbSub000100_10,時段 2：
+m_StrsteckbSub000100_11,時段 3：
+m_StrsteckbSub000100_12,時段 4：
+m_StrsteckbSub000100_13,時段 5：
+m_StrsteckbSub000100_14,時段 6：
+m_StrsteckbSub000100_15,時段 7：
+m_StrsteckbSub000100_16,時段 8：
+m_StrbutSub000100_01,設置控制器…
+m_StrbutSub000100_02,輸出報表…
+m_StrbutSub000100_03,載入樣板…
+m_StrbutSub000100_04,載入設置…
+m_StrbutSub000100_05,儲存樣板…
+m_StrbutSub000100_06,儲存設置…
+m_StrbutSub000100_07,預設值
+m_StrbutSub000100_08,套用設置
+m_StrbutSub000100_09,離開
+m_StrgpbSub000101_01,基本設置
+m_StrgpbSub000101_02,通行設置
+m_StrgpbSub000101_03,通行等級
+m_StrgpbSub000101_04,反脅迫開門
+m_StrgpbSub000101_05,反破壞偵測設置
+m_StrgpbSub000101_06,通行模式與時段控制
+m_StrgpbSub000101_07,自動開門
+m_StrlabSub000101_01,名稱：
+m_StrlabSub000101_02,門區密碼：
+m_StrlabSub000101_03,密碼錯誤次數：
+m_StrlabSub000101_04,次後暫停通行
+m_StrlabSub000101_05,(緊急遙控開門不受此限制)
+m_StrlabSub000101_06,一般卡片數量(張)：
+m_StrlabSub000101_07,VIP 卡片數量(張)：
+m_StrlabSub000101_08,開門密碼：
+m_StrlabSub000101_09,連動輸出模組通道：
+m_StrlabSub000101_10,接點動作持續秒數：
+m_StrlabSub000101_11,警報通知音效：
+m_StrlabSub000101_12,模組 ID
+m_StrlabSub000101_13,輸出通道
+m_StrlabSub000101_14,進入方向偵測模組通道：
+m_StrlabSub000101_15,(通道設置為 0，將停止偵測)
+m_StrlabSub000101_16,模組 ID
+m_StrlabSub000101_17,輸入通道
+m_StrlabSub000101_18,外出方向偵測模組通道：
+m_StrlabSub000101_19,(通道設置為 0，將停止偵測)
+m_StrlabSub000101_20,模組 ID
+m_StrlabSub000101_21,輸入通道
+m_StrlabSub000101_22,時段內進入：
+m_StrlabSub000101_23,(密碼二擇一)
+m_StrlabSub000101_24,時段內外出：
+m_StrlabSub000101_25,(密碼二擇一)
+m_StrlabSub000101_26,時段外進入：
+m_StrlabSub000101_27,(密碼二擇一)
+m_StrlabSub000101_28,時段外外出：
+m_StrlabSub000101_29,(密碼二擇一)
+m_StrrdbSub000101_01,開放通行
+m_StrrdbSub000101_02,禁止通行
+m_StrrdbSub000101_03,LEVEL 0
+m_StrrdbSub000101_04,LEVEL 1
+m_StrrdbSub000101_05,LEVEL 2
+m_StrrdbSub000101_06,LEVEL 3
+m_StrrdbSub000101_07,有效卡開門
+m_StrrdbSub000101_08,可通行卡開門
+m_StrrdbSub000101_09,符合一項即可通行
+m_StrrdbSub000101_10,符合二項即可通行
+m_StrrdbSub000101_11,符合三項即可通行
+m_StrrdbSub000101_12,符合一項即可通行
+m_StrrdbSub000101_13,符合二項即可通行
+m_StrrdbSub000101_14,符合三項即可通行
+m_StrrdbSub000101_15,符合一項即可通行
+m_StrrdbSub000101_16,符合二項即可通行
+m_StrrdbSub000101_17,符合三項即可通行
+m_StrrdbSub000101_18,符合一項即可通行
+m_StrrdbSub000101_19,符合二項即可通行
+m_StrrdbSub000101_20,符合三項即可通行
+m_StrrdbSub000101_21,時段外讀卡機可讀卡
+m_StrrdbSub000101_22,時段外讀卡機無法讀卡
+m_StrrdbSub000101_23,自動開啟
+m_StrrdbSub000101_24,首卡開啟
+m_StrrdbSub000101_25,自動關閉
+m_StrckbSub000101_01,產生日誌記錄
+m_StrckbSub000101_02,中心授權開門
+m_StrckbSub000101_03,產生黑名單警報訊息
+m_StrckbSub000101_04,VIP 通行
+m_StrckbSub000101_05,多卡通行
+m_StrckbSub000101_06,刷卡通行
+m_StrckbSub000101_07,指紋通行
+m_StrckbSub000101_08,個人密碼
+m_StrckbSub000101_09,門區密碼
+m_StrckbSub000101_10,刷卡通行
+m_StrckbSub000101_11,指紋通行
+m_StrckbSub000101_12,個人密碼
+m_StrckbSub000101_13,門區密碼
+m_StrckbSub000101_14,刷卡通行
+m_StrckbSub000101_15,指紋通行
+m_StrckbSub000101_16,個人密碼
+m_StrckbSub000101_17,門區密碼
+m_StrckbSub000101_18,刷卡通行
+m_StrckbSub000101_19,指紋通行
+m_StrckbSub000101_20,個人密碼
+m_StrckbSub000101_21,門區密碼
+m_StrckbSub000101_22,啟用時段控制
+m_StrckbSub000101_23,星期日
+m_StrckbSub000101_24,星期一
+m_StrckbSub000101_25,星期二
+m_StrckbSub000101_26,星期三
+m_StrckbSub000101_27,星期四
+m_StrckbSub000101_28,星期五
+m_StrckbSub000101_29,星期六
+m_StrckbSub000101_30,假日
+m_StrckbSub000101_31,啟用
+m_StrckbSub000101_32,星期日
+m_StrckbSub000101_33,星期一
+m_StrckbSub000101_34,星期二
+m_StrckbSub000101_35,星期三
+m_StrckbSub000101_36,星期四
+m_StrckbSub000101_37,星期五
+m_StrckbSub000101_38,星期六
+m_StrckbSub000101_39,假日
+m_StrckbSub000101_40,啟用
+m_StrsteSub000101_01,時段 1：
+m_StrsteSub000101_02,時段 2：
+m_StrsteSub000101_03,時段 3：
+m_StrsteSub000101_04,時段 4：
+m_StrsteSub000101_05,時段 5：
+m_StrsteSub000101_06,時段 6：
+m_StrsteSub000101_07,時段 7：
+m_StrsteSub000101_08,時段 8：
+m_StrsteSub000101_09,時段 1：
+m_StrsteSub000101_10,時段 2：
+m_StrsteSub000101_11,時段 3：
+m_StrsteSub000101_12,時段 4：
+m_StrsteSub000101_13,時段 5：
+m_StrsteSub000101_14,時段 6：
+m_StrsteSub000101_15,時段 7：
+m_StrsteSub000101_16,時段 8：
+m_StrbutSub000101_01,設置控制器…
+m_StrbutSub000101_02,輸出報表…
+m_StrbutSub000101_03,載入樣板…
+m_StrbutSub000101_04,載入設置…
+m_StrbutSub000101_05,儲存樣板…
+m_StrbutSub000101_06,儲存設置…
+m_StrbutSub000101_07,預設值
+m_StrbutSub000101_08,套用設置
+m_StrbutSub000101_09,離開
+m_StrTabPageTag01,人員卡片管理 
+m_StrTabPageTag02,門區通行授權 
+m_StrTabPageTag03,傳送作業 
+m_StrTabPageTag04,報表作業 
+m_StrOutlookSubMenu10,人員資料管理
+m_StrOutlookSubMenu11,車輛資料管理
+m_StrOutlookSubMenu12,卡片資料管理
+m_StrOutlookSubMenu13,部門管理
+m_StrOutlookSubMenu14,人員車輛群組管理
+m_StrOutlookSubMenu20,人員門區通行授權
+m_StrOutlookSubMenu21,門區多卡通行授權
+m_StrOutlookSubMenu22,授權記錄查詢
+m_StrJLMBSubTxt10,人員車輛群組管理
+m_StrJLMBSubTxt11,管理車輛資料
+m_StrJLMBSubTxt12,管理卡片資料
+m_StrJLMBSubTxt14,人員車輛部門
+m_StrJLMBSubTxt20,授權人員車輛通行
+m_StrJLMBSubTxt21,多張卡片通行門區
+m_StrJLMBSubTxt22,查詢授權記錄
+m_StrlabSub0100,人員資料列表
+m_StrbutSub0100_01,編修人員
+m_StrbutSub0100_02,新增人員…
+m_StrbutSub0100_03,匯入人員…
+m_StrbutSub0100_04,匯出人員…	
+m_StrbutSub0100_05,輸出報表...
+m_StrbutSub0100_06,全選
+m_StrbutSub0100_07,取消全選
+m_StrbutSub0100_08,執行
+m_StrbutSub0100_09,搜尋
+m_StrbutSub0100_10,離開
+m_StrlabSub0100_01,顯示過濾：
+m_StrckbSub0100_01,已啟用
+m_StrckbSub0100_02,已停用
+m_StrckbSub0100_03,已領卡
+m_StrckbSub0100_04,未領卡
+m_StrtxtSub0100_02,關鍵字
+m_StrlabSub0101,車輛資料列表
+m_StrlabSub0101_01,顯示過濾：
+m_StrbutSub0101_01,編修車輛
+m_StrbutSub0101_02,新增車輛…
+m_StrbutSub0101_03,匯入車輛…
+m_StrbutSub0101_04,匯出車輛…
+m_StrbutSub0101_05,輸出報表...
+m_StrbutSub0101_06,全選
+m_StrbutSub0101_07,取消全選
+m_StrbutSub0101_08,執行
+m_StrbutSub0101_09,搜尋
+m_StrbutSub0101_10,離開
+m_StrckbSub0101_01,已啟用
+m_StrckbSub0101_02,已停用
+m_StrckbSub0101_03,已領卡
+m_StrckbSub0101_04,未領卡
+m_StrlabSub0102,卡片資料列表
+m_StrlabSub0102_01,顯示過濾：
+m_StrbutSub0102_01,編修卡片
+m_StrbutSub0102_02,新增卡片…
+m_StrbutSub0102_03,匯入卡片…
+m_StrbutSub0102_04,匯出卡片…
+m_StrbutSub0102_05,輸出報表...
+m_StrbutSub0102_06,全選
+m_StrbutSub0102_07,取消全選
+m_StrbutSub0102_08,執行
+m_StrbutSub0102_09,搜尋
+m_StrbutSub0102_10,離開
+m_StrckbSub0102_01,已啟用
+m_StrckbSub0102_02,已停用
+m_StrckbSub0102_03,已領卡
+m_StrckbSub0102_04,未領卡
+m_StrckbSub0102_05,未發放
+m_StrlabSub0103,人員車輛部門管理
+m_StrlabSub0103_01,部門
+m_StrlabSub0103_02,人員車輛部門列表
+m_StrlabSub0103_03,顯示過濾：
+m_StrlabSub0103_04,顯示過濾：
+m_StrbutSub0103_01,新增
+m_StrbutSub0103_02,刪除
+m_StrbutSub0103_03,搜尋
+m_StrbutSub0103_04,新增
+m_StrbutSub0103_05,刪除
+m_StrbutSub0103_06,搜尋
+m_StrbutSub0103_07,匯入部門…
+m_StrbutSub0103_08,匯出部門…
+m_StrbutSub0103_09,輸出報表…
+m_StrbutSub0103_10,離開
+m_StrckbSub0103_01,部門
+m_StrckbSub0103_02,人員
+m_StrckbSub0103_03,車輛
+m_StrckbSub0103_04,部門
+m_StrckbSub0103_05,人員
+m_StrckbSub0103_06,車輛
+m_StrlabSub0104,人員車輛部門群組列表
+m_StrlabSub0104_01,顯示過濾：
+m_StrbutSub0104_01,編修群組
+m_StrbutSub0104_02,新增群組
+m_StrbutSub0104_03,匯入群組…
+m_StrbutSub0104_04,匯出群組…
+m_StrbutSub0104_05,輸出報表...
+m_StrbutSub0104_06,全選
+m_StrbutSub0104_07,取消全選
+m_StrbutSub0104_08,執行
+m_StrbutSub0104_09,搜尋
+m_StrbutSub0104_10,離開
+m_StrckbSub0104_01,已啟用
+m_StrckbSub0104_02,已停用
+m_StrlabSub0200,授權記錄
+m_StrlabSub0200_01,顯示過濾：
+m_StrbutSub0200_01,編修授權記錄
+m_StrbutSub0200_02,新增授權記錄
+m_StrbutSub0200_03,匯入授權記錄…
+m_StrbutSub0200_04,匯出授權記錄…
+m_StrbutSub0200_05,輸出報表...
+m_StrbutSub0200_06,全選
+m_StrbutSub0200_07,取消全選
+m_StrbutSub0200_08,執行
+m_StrbutSub0200_09,搜尋
+m_StrbutSub0200_10,離開
+m_StrckbSub0200_01,發放授權
+m_StrckbSub0200_02,撤銷授權
+m_StrlabSub010000,設置人員
+m_StrbgpSub010000_01,基本設置
+m_StrbgpSub010000_02,卡片列表
+m_StrlabSub010000_01,姓名：
+m_StrlabSub010000_02,別名：
+m_StrlabSub010000_03,性別：
+m_StrlabSub010000_04,照片：
+m_StrlabSub010000_05,部門：
+m_StrlabSub010000_06,職務：
+m_StrlabSub010000_07,出生日期：
+m_StrlabSub010000_08,工號：
+m_StrlabSub010000_09,身份證號：
+m_StrlabSub010000_10,證件編號：
+m_StrlabSub010000_11,辦公電話：
+m_StrlabSub010000_12,住家電話：
+m_StrlabSub010000_13,行動電話：
+m_StrlabSub010000_14,聯絡人姓名：
+m_StrlabSub010000_15,E-Mail：
+m_StrlabSub010000_16,聯絡人電話：
+m_StrlabSub010000_17,住家地址：
+m_StrlabSub010000_18,通信地址：
+m_StrlabSub010000_19,備註：
+m_StrbutSub010000_01,清除
+m_StrbutSub010000_02,選擇檔案…
+m_StrbutSub010000_03,讀取/掃描證件…
+m_StrbutSub010000_04,配發卡片…
+m_StrbutSub010000_05,全選
+m_StrbutSub010000_06,取消全選
+m_StrbutSub010000_07,執行
+m_StrbutSub010000_08,卡片設定…
+m_StrbutSub010000_09,輸出報表...
+m_StrbutSub010000_10,載入樣板…
+m_StrbutSub010000_11,載入設定...
+m_StrbutSub010000_12,儲存樣板...
+m_StrbutSub010000_13,儲存設定...
+m_StrbutSub010000_14,套用設定
+m_StrbutSub010000_15,離開
+m_StrrdbSub010000_01,男	  
+m_StrrdbSub010000_02,女
+m_StrlabSub010100,設置車輛
+m_StrbgpSub010100_01,基本設置
+m_StrbgpSub010100_02,卡片列表
+m_StrlabSub010100_01,名稱：
+m_StrlabSub010100_02,別名：
+m_StrlabSub010100_03,排氣量：
+m_StrlabSub010100_04,照片：
+m_StrlabSub010100_05,車重：
+m_StrlabSub010100_06,部門：
+m_StrlabSub010100_07,駕駛：
+m_StrlabSub010100_08,出廠年份：
+m_StrlabSub010100_09,財產編號：
+m_StrlabSub010100_10,車牌編號：
+m_StrlabSub010100_11,車位號碼：
+m_StrlabSub010100_12,廠商電話：
+m_StrlabSub010100_13,廠商行動：
+m_StrlabSub010100_14,保管人姓名：
+m_StrlabSub010100_15,廠商地址：
+m_StrlabSub010100_16,保管人電話：
+m_StrlabSub010100_17,備註：
+m_StrbutSub010100_01,清除
+m_StrbutSub010100_02,選擇檔案…
+m_StrbutSub010100_03,讀取/掃描證件…
+m_StrbutSub010100_04,配發卡片…
+m_StrbutSub010100_05,全選
+m_StrbutSub010100_06,取消全選
+m_StrbutSub010100_07,執行
+m_StrbutSub010100_08,卡片設定…
+m_StrbutSub010100_09,輸出報表...
+m_StrbutSub010100_10,載入樣板…
+m_StrbutSub010100_11,載入設定...
+m_StrbutSub010100_12,儲存樣板...
+m_StrbutSub010100_13,儲存設定...
+m_StrbutSub010100_14,套用設定
+m_StrbutSub010100_15,離開
+m_StrlabSub010200,設置卡片
+m_StrbgpSub010200_01,基本設置
+m_StrbgpSub010200_02,卡片設置
+m_StrbgpSub010200_03,通行週計畫與時段
+m_StrbgpSub010200_04,卡片狀態
+m_StrlabSub010200_01,持有人姓名：
+m_StrlabSub010200_02,卡片內碼：
+m_StrlabSub010200_03,卡片類型：
+m_StrlabSub010200_04,卡片別名：
+m_StrlabSub010200_05,卡片密碼：
+m_StrlabSub010200_06,顯示文字：
+m_StrrdbSub010200_01,啟用
+m_StrrdbSub010200_02,停用
+m_StrckbSub010200_01,VIP 卡
+m_StrckbSub010200_02,設置為黑名單
+m_StrckbSub010200_03,設置有效期限
+m_StrckbSub010200_04,星期日
+m_StrckbSub010200_05,星期一
+m_StrckbSub010200_06,星期二
+m_StrckbSub010200_07,星期三
+m_StrckbSub010200_08,星期四
+m_StrckbSub010200_09,星期五
+m_StrckbSub010200_10,星期六
+m_StrckbSub010200_11,例假日
+m_StrsteSub010200_01,啟用時段 1
+m_StrsteSub010200_02,啟用時段 2
+m_StrsteSub010200_03,啟用時段 3
+m_StrbutSub010200_01,輸出報表...
+m_StrbutSub010200_02,載入樣板…
+m_StrbutSub010200_03,載入設定...
+m_StrbutSub010200_04,儲存樣板...
+m_StrbutSub010200_05,儲存設定...
+m_StrbutSub010200_06,套用設定
+m_StrbutSub010200_07,離開
+m_StrlabSub010400_01,人員車輛部門
+m_StrlabSub010400_02,群組名稱：
+m_StrlabSub010400_03,啟用日期：
+m_StrlabSub010400_04,到期日期：
+m_StrlabSub010400_05,顯示過濾：
+m_StrlabSub010400_06,人員車輛部門群組列表
+m_StrbutSub010400_01,載入群組…
+m_StrbutSub010400_02,儲存群組…
+m_StrbutSub010400_03,建立群組
+m_StrbutSub010400_04,載入樣板…
+m_StrbutSub010400_05,儲存樣板…
+m_StrbutSub010400_06,全選
+m_StrbutSub010400_07,取消全選
+m_StrbutSub010400_08,搜尋
+m_StrbutSub010400_09,設置部門…
+m_StrbutSub010400_10,卡片設定…
+m_StrbutSub010400_11,編修群組
+m_StrbutSub010400_12,新增群組
+m_StrbutSub010400_13,匯入群組…
+m_StrbutSub010400_14,匯出群組…
+m_StrbutSub010400_15,輸出報表…
+m_StrbutSub010400_16,全選
+m_StrbutSub010400_17,清除選取
+m_StrbutSub010400_18,執行
+m_StrbutSub010400_19,搜尋
+m_StrbutSub010400_20,離開
+m_StrbgpSub010400_03,群組參數
+m_StrbgpSub010400_04,通行等級
+m_StrckbSub010400_01,啟用群組參數
+m_StrckbSub010400_02,設置有效期限
+m_StrckbSub010400_03,部門
+m_StrckbSub010400_04,人員
+m_StrckbSub010400_05,車輛
+m_StrckbSub010400_06,僅勾選
+m_StrrdbSub010400_01,LEVEL 0
+m_StrrdbSub010400_02,LEVEL 1
+m_StrrdbSub010400_03,LEVEL 2
+m_StrrdbSub010400_04,LEVEL 3
+m_StrlabSub020000,授權設置
+m_StrlabSub020000_01,授權內容
+m_StrlabSub020000_02,授權名稱：
+m_StrlabSub020000_03,區域門區
+m_StrlabSub020000_04,顯示過濾：
+m_StrlabSub020000_05,部門人員車輛
+m_StrlabSub020000_06,顯示過濾：
+m_StrlabSub020000_07,授權記錄
+m_StrbutSub020000_01,授權設置…
+m_StrbutSub020000_02,載入授權…
+m_StrbutSub020000_03,儲存授權…
+m_StrbutSub020000_04,建立授權記錄
+m_StrbutSub020000_05,搜尋
+m_StrbutSub020000_06,全選
+m_StrbutSub020000_07,取消全選
+m_StrbutSub020000_08,檢視授權內容…
+m_StrbutSub020000_09,編輯門區資料
+m_StrbutSub020000_10,搜尋
+m_StrbutSub020000_11,全選
+m_StrbutSub020000_12,取消全選
+m_StrbutSub020000_13,檢視授權內容…
+m_StrbutSub020000_14,編輯資料設定…
+m_StrbutSub020000_15,編修授權記錄
+m_StrbutSub020000_16,新增授權記錄
+m_StrbutSub020000_17,匯入授權記錄…
+m_StrbutSub020000_18,匯出授權記錄…
+m_StrbutSub020000_19,輸出報表...
+m_StrbutSub020000_20,全選
+m_StrbutSub020000_21,取消全選
+m_StrbutSub020000_22,執行
+m_StrbutSub020000_23,搜尋
+m_StrbutSub020000_24,離開
+m_StrckbSub020000_01,群組
+m_StrckbSub020000_02,區域
+m_StrckbSub020000_03,門區
+m_StrckbSub020000_04,僅勾選
+m_StrckbSub020000_05,群組
+m_StrckbSub020000_06,部門
+m_StrckbSub020000_07,人員
+m_StrckbSub020000_08,車輛
+m_StrckbSub020000_09,僅勾選
+m_StrlabSub020001,編輯門區資料
+m_StrbutSub020001_01,離開
+m_StrbgbSub020001_01,基本資訊
+m_StrbgbSub020001_02,通行模式 (僅供唯讀參閱，欲更動設置，請至裝置設備管理頁面中進行操作)
+m_StrlabSub020001_01,名稱：
+m_StrlabSub020001_02,狀態：
+m_StrlabSub020001_03,所屬區域：
+m_StrlabSub020001_04,通行等級：
+m_StrlabSub020001_05,通行期限：
+m_StrlabSub020001_06,時段內進入：
+m_StrlabSub020001_07,(密碼二擇一)
+m_StrlabSub020001_08,時段內外出：
+m_StrlabSub020001_09,(密碼二擇一)
+m_StrlabSub020001_10,時段外進入：
+m_StrlabSub020001_11,(密碼二擇一)
+m_StrlabSub020001_12,時段外外出：
+m_StrlabSub020001_13,(密碼二擇一)
+m_StrckbSub020001_01,刷卡通行
+m_StrckbSub020001_02,指紋通行
+m_StrckbSub020001_03,個人密碼
+m_StrckbSub020001_04,門區密碼
+m_StrckbSub020001_05,刷卡通行
+m_StrckbSub020001_06,指紋通行
+m_StrckbSub020001_07,個人密碼
+m_StrckbSub020001_08,門區密碼
+m_StrckbSub020001_09,刷卡通行
+m_StrckbSub020001_10,指紋通行
+m_StrckbSub020001_11,個人密碼
+m_StrckbSub020001_12,門區密碼
+m_StrckbSub020001_13,刷卡通行
+m_StrckbSub020001_14,指紋通行
+m_StrckbSub020001_15,個人密碼
+m_StrckbSub020001_16,門區密碼
+m_StrrdbSub020001_01,符合一項即可通行
+m_StrrdbSub020001_02,符合二項即可通行
+m_StrrdbSub020001_03,符合三項即可通行
+m_StrrdbSub020001_04,符合一項即可通行
+m_StrrdbSub020001_05,符合二項即可通行
+m_StrrdbSub020001_06,符合三項即可通行
+m_StrrdbSub020001_07,符合一項即可通行
+m_StrrdbSub020001_08,符合二項即可通行
+m_StrrdbSub020001_09,符合三項即可通行
+m_StrrdbSub020001_10,符合一項即可通行
+m_StrrdbSub020001_11,符合二項即可通行
+m_StrrdbSub020001_12,符合三項即可通行
+m_StrlabSub020002,設置電梯
+m_StrbgbSub020002_01,基本資訊
+m_StrbgbSub020002_02,通行模式 (僅供唯讀參閱，欲更動設置，請至裝置設備管理頁面中進行操作)
+m_StregbSub020002_01,樓層設置
+m_StrckbSub020002_01,刷卡通行
+m_StrckbSub020002_02,指紋通行
+m_StrckbSub020002_03,個人密碼
+m_StrckbSub020002_04,門區密碼
+m_StrckbSub020002_05,刷卡通行
+m_StrckbSub020002_06,指紋通行
+m_StrckbSub020002_07,個人密碼
+m_StrckbSub020002_08,門區密碼
+m_StrckbSub020002_09,刷卡通行
+m_StrckbSub020002_10,指紋通行
+m_StrckbSub020002_11,個人密碼
+m_StrckbSub020002_12,門區密碼
+m_StrckbSub020002_13,刷卡通行
+m_StrckbSub020002_14,指紋通行
+m_StrckbSub020002_15,個人密碼
+m_StrckbSub020002_16,門區密碼
+m_StrrdbSub020002_01,符合一項即可通行
+m_StrrdbSub020002_02,符合二項即可通行
+m_StrrdbSub020002_03,符合三項即可通行
+m_StrrdbSub020002_04,符合一項即可通行
+m_StrrdbSub020002_05,符合二項即可通行
+m_StrrdbSub020002_06,符合三項即可通行
+m_StrrdbSub020002_07,符合一項即可通行
+m_StrrdbSub020002_08,符合二項即可通行
+m_StrrdbSub020002_09,符合三項即可通行
+m_StrrdbSub020002_10,符合一項即可通行
+m_StrrdbSub020002_11,符合二項即可通行
+m_StrrdbSub020002_12,符合三項即可通行
+m_StrbutSub020002_01,載入設定...
+m_StrbutSub020002_02,儲存樣板...
+m_StrbutSub020002_03,套用設定
+m_StrbutSub020002_04,離開
+m_StrlabSub020002_01,名稱：
+m_StrlabSub020002_02,狀態：
+m_StrlabSub020002_03,所屬區域：
+m_StrlabSub020002_04,通行等級：
+m_StrlabSub020002_05,通行期限：
+m_StrlabSub020002_06,時段內進入：
+m_StrlabSub020002_07,時段內外出：
+m_StrlabSub020002_08,時段外進入：
+m_StrlabSub020002_09,時段外外出：
+m_StrlabSub020002_10,(密碼二擇一)
+m_StrlabSub020002_11,(密碼二擇一)
+m_StrlabSub020002_12,(密碼二擇一)
+m_StrlabSub020002_13,(密碼二擇一)
+m_StrConnectMsg00,連線測試
+m_StrConnectMsg01,連線測試成功
+m_StrConnectMsg02,連線測試失敗
+m_StrControllerMsg00,還未儲存設定，確定要離開嗎?
